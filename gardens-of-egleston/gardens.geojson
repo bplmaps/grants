@@ -19,7 +19,7 @@
     {
       "type": "Feature",
       "properties": { "garden": "NUBIA's Dimock Garden", "icon": "palm.png" },
-      "geometry": { "type": "Point", "coordinates": [-71.09716, 42.318143] }
+      "geometry": { "type": "Point", "coordinates": [-71.09721,42.31835] }
     },
     {
       "type": "Feature",
@@ -88,7 +88,7 @@
     {
       "type": "Feature",
       "properties": {
-        "garden": "Jeffry's Garden",
+        "garden": "Jeffrey's Garden",
         "icon": "speedboat.svg"
       },
       "geometry": {
