@@ -1,0 +1,1757 @@
+[
+  {
+    "id": 1,
+    "town": "ABINGTON",
+    "fips": 25023
+  },
+  {
+    "id": 2,
+    "town": "ACTON",
+    "fips": 25017
+  },
+  {
+    "id": 3,
+    "town": "ACUSHNET",
+    "fips": 25005
+  },
+  {
+    "id": 4,
+    "town": "ADAMS",
+    "fips": 25003
+  },
+  {
+    "id": 13,
+    "town": "ASHFIELD",
+    "fips": 25011
+  },
+  {
+    "id": 5,
+    "town": "AGAWAM",
+    "fips": 25013
+  },
+  {
+    "id": 6,
+    "town": "ALFORD",
+    "fips": 25003
+  },
+  {
+    "id": 7,
+    "town": "AMESBURY",
+    "fips": 25009
+  },
+  {
+    "id": 8,
+    "town": "AMHERST",
+    "fips": 25015
+  },
+  {
+    "id": 14,
+    "town": "ASHLAND",
+    "fips": 25017
+  },
+  {
+    "id": 9,
+    "town": "ANDOVER",
+    "fips": 25009
+  },
+  {
+    "id": 10,
+    "town": "ARLINGTON",
+    "fips": 25017
+  },
+  {
+    "id": 11,
+    "town": "ASHBURNHAM",
+    "fips": 25027
+  },
+  {
+    "id": 12,
+    "town": "ASHBY",
+    "fips": 25017
+  },
+  {
+    "id": 45,
+    "town": "BROOKFIELD",
+    "fips": 25027
+  },
+  {
+    "id": 15,
+    "town": "ATHOL",
+    "fips": 25027
+  },
+  {
+    "id": 16,
+    "town": "ATTLEBORO",
+    "fips": 25005
+  },
+  {
+    "id": 17,
+    "town": "AUBURN",
+    "fips": 25027
+  },
+  {
+    "id": 18,
+    "town": "AVON",
+    "fips": 25021
+  },
+  {
+    "id": 19,
+    "town": "AYER",
+    "fips": 25017
+  },
+  {
+    "id": 20,
+    "town": "BARNSTABLE",
+    "fips": 25001
+  },
+  {
+    "id": 21,
+    "town": "BARRE",
+    "fips": 25027
+  },
+  {
+    "id": 22,
+    "town": "BECKET",
+    "fips": 25003
+  },
+  {
+    "id": 23,
+    "town": "BEDFORD",
+    "fips": 25017
+  },
+  {
+    "id": 24,
+    "town": "BELCHERTOWN",
+    "fips": 25015
+  },
+  {
+    "id": 70,
+    "town": "DALTON",
+    "fips": 25003
+  },
+  {
+    "id": 25,
+    "town": "BELLINGHAM",
+    "fips": 25021
+  },
+  {
+    "id": 26,
+    "town": "BELMONT",
+    "fips": 25017
+  },
+  {
+    "id": 30,
+    "town": "BEVERLY",
+    "fips": 25009
+  },
+  {
+    "id": 34,
+    "town": "BOLTON",
+    "fips": 25027
+  },
+  {
+    "id": 27,
+    "town": "BERKLEY",
+    "fips": 25005
+  },
+  {
+    "id": 28,
+    "town": "BERLIN",
+    "fips": 25027
+  },
+  {
+    "id": 29,
+    "town": "BERNARDSTON",
+    "fips": 25011
+  },
+  {
+    "id": 35,
+    "town": "BOSTON",
+    "fips": 25025
+  },
+  {
+    "id": 36,
+    "town": "BOURNE",
+    "fips": 25001
+  },
+  {
+    "id": 200,
+    "town": "NEW ASHFORD",
+    "fips": 25003
+  },
+  {
+    "id": 31,
+    "town": "BILLERICA",
+    "fips": 25017
+  },
+  {
+    "id": 32,
+    "town": "BLACKSTONE",
+    "fips": 25027
+  },
+  {
+    "id": 33,
+    "town": "BLANDFORD",
+    "fips": 25013
+  },
+  {
+    "id": 37,
+    "town": "BOXBOROUGH",
+    "fips": 25017
+  },
+  {
+    "id": 38,
+    "town": "BOXFORD",
+    "fips": 25009
+  },
+  {
+    "id": 39,
+    "town": "BOYLSTON",
+    "fips": 25027
+  },
+  {
+    "id": 40,
+    "town": "BRAINTREE",
+    "fips": 25021
+  },
+  {
+    "id": 43,
+    "town": "BRIMFIELD",
+    "fips": 25013
+  },
+  {
+    "id": 41,
+    "town": "BREWSTER",
+    "fips": 25001
+  },
+  {
+    "id": 42,
+    "town": "BRIDGEWATER",
+    "fips": 25023
+  },
+  {
+    "id": 44,
+    "town": "BROCKTON",
+    "fips": 25023
+  },
+  {
+    "id": 46,
+    "town": "BROOKLINE",
+    "fips": 25021
+  },
+  {
+    "id": 47,
+    "town": "BUCKLAND",
+    "fips": 25011
+  },
+  {
+    "id": 48,
+    "town": "BURLINGTON",
+    "fips": 25017
+  },
+  {
+    "id": 49,
+    "town": "CAMBRIDGE",
+    "fips": 25017
+  },
+  {
+    "id": 50,
+    "town": "CANTON",
+    "fips": 25021
+  },
+  {
+    "id": 51,
+    "town": "CARLISLE",
+    "fips": 25017
+  },
+  {
+    "id": 52,
+    "town": "CARVER",
+    "fips": 25023
+  },
+  {
+    "id": 53,
+    "town": "CHARLEMONT",
+    "fips": 25011
+  },
+  {
+    "id": 54,
+    "town": "CHARLTON",
+    "fips": 25027
+  },
+  {
+    "id": 55,
+    "town": "CHATHAM",
+    "fips": 25001
+  },
+  {
+    "id": 56,
+    "town": "CHELMSFORD",
+    "fips": 25017
+  },
+  {
+    "id": 57,
+    "town": "CHELSEA",
+    "fips": 25025
+  },
+  {
+    "id": 58,
+    "town": "CHESHIRE",
+    "fips": 25003
+  },
+  {
+    "id": 59,
+    "town": "CHESTER",
+    "fips": 25013
+  },
+  {
+    "id": 60,
+    "town": "CHESTERFIELD",
+    "fips": 25015
+  },
+  {
+    "id": 61,
+    "town": "CHICOPEE",
+    "fips": 25013
+  },
+  {
+    "id": 112,
+    "town": "GRANVILLE",
+    "fips": 25013
+  },
+  {
+    "id": 62,
+    "town": "CHILMARK",
+    "fips": 25007
+  },
+  {
+    "id": 63,
+    "town": "CLARKSBURG",
+    "fips": 25003
+  },
+  {
+    "id": 64,
+    "town": "CLINTON",
+    "fips": 25027
+  },
+  {
+    "id": 65,
+    "town": "COHASSET",
+    "fips": 25021
+  },
+  {
+    "id": 66,
+    "town": "COLRAIN",
+    "fips": 25011
+  },
+  {
+    "id": 67,
+    "town": "CONCORD",
+    "fips": 25017
+  },
+  {
+    "id": 68,
+    "town": "CONWAY",
+    "fips": 25011
+  },
+  {
+    "id": 69,
+    "town": "CUMMINGTON",
+    "fips": 25015
+  },
+  {
+    "id": 71,
+    "town": "DANVERS",
+    "fips": 25009
+  },
+  {
+    "id": 72,
+    "town": "DARTMOUTH",
+    "fips": 25005
+  },
+  {
+    "id": 73,
+    "town": "DEDHAM",
+    "fips": 25021
+  },
+  {
+    "id": 74,
+    "town": "DEERFIELD",
+    "fips": 25011
+  },
+  {
+    "id": 120,
+    "town": "HAMPDEN",
+    "fips": 25013
+  },
+  {
+    "id": 75,
+    "town": "DENNIS",
+    "fips": 25001
+  },
+  {
+    "id": 76,
+    "town": "DIGHTON",
+    "fips": 25005
+  },
+  {
+    "id": 77,
+    "town": "DOUGLAS",
+    "fips": 25027
+  },
+  {
+    "id": 78,
+    "town": "DOVER",
+    "fips": 25021
+  },
+  {
+    "id": 79,
+    "town": "DRACUT",
+    "fips": 25017
+  },
+  {
+    "id": 80,
+    "town": "DUDLEY",
+    "fips": 25027
+  },
+  {
+    "id": 81,
+    "town": "DUNSTABLE",
+    "fips": 25017
+  },
+  {
+    "id": 82,
+    "town": "DUXBURY",
+    "fips": 25023
+  },
+  {
+    "id": 83,
+    "town": "EAST BRIDGEWATER",
+    "fips": 25023
+  },
+  {
+    "id": 84,
+    "town": "EAST BROOKFIELD",
+    "fips": 25027
+  },
+  {
+    "id": 85,
+    "town": "EAST LONGMEADOW",
+    "fips": 25013
+  },
+  {
+    "id": 86,
+    "town": "EASTHAM",
+    "fips": 25001
+  },
+  {
+    "id": 87,
+    "town": "EASTHAMPTON",
+    "fips": 25015
+  },
+  {
+    "id": 88,
+    "town": "EASTON",
+    "fips": 25005
+  },
+  {
+    "id": 89,
+    "town": "EDGARTOWN",
+    "fips": 25007
+  },
+  {
+    "id": 90,
+    "town": "EGREMONT",
+    "fips": 25003
+  },
+  {
+    "id": 91,
+    "town": "ERVING",
+    "fips": 25011
+  },
+  {
+    "id": 92,
+    "town": "ESSEX",
+    "fips": 25009
+  },
+  {
+    "id": 93,
+    "town": "EVERETT",
+    "fips": 25017
+  },
+  {
+    "id": 94,
+    "town": "FAIRHAVEN",
+    "fips": 25005
+  },
+  {
+    "id": 121,
+    "town": "HANCOCK",
+    "fips": 25003
+  },
+  {
+    "id": 95,
+    "town": "FALL RIVER",
+    "fips": 25005
+  },
+  {
+    "id": 96,
+    "town": "FALMOUTH",
+    "fips": 25001
+  },
+  {
+    "id": 97,
+    "town": "FITCHBURG",
+    "fips": 25027
+  },
+  {
+    "id": 98,
+    "town": "FLORIDA",
+    "fips": 25003
+  },
+  {
+    "id": 99,
+    "town": "FOXBOROUGH",
+    "fips": 25021
+  },
+  {
+    "id": 100,
+    "town": "FRAMINGHAM",
+    "fips": 25017
+  },
+  {
+    "id": 101,
+    "town": "FRANKLIN",
+    "fips": 25021
+  },
+  {
+    "id": 102,
+    "town": "FREETOWN",
+    "fips": 25005
+  },
+  {
+    "id": 113,
+    "town": "GREAT BARRINGTON",
+    "fips": 25003
+  },
+  {
+    "id": 103,
+    "town": "GARDNER",
+    "fips": 25027
+  },
+  {
+    "id": 104,
+    "town": "AQUINNAH",
+    "fips": 25007
+  },
+  {
+    "id": 105,
+    "town": "GEORGETOWN",
+    "fips": 25009
+  },
+  {
+    "id": 116,
+    "town": "GROVELAND",
+    "fips": 25009
+  },
+  {
+    "id": 106,
+    "town": "GILL",
+    "fips": 25011
+  },
+  {
+    "id": 107,
+    "town": "GLOUCESTER",
+    "fips": 25009
+  },
+  {
+    "id": 108,
+    "town": "GOSHEN",
+    "fips": 25015
+  },
+  {
+    "id": 109,
+    "town": "GOSNOLD",
+    "fips": 25007
+  },
+  {
+    "id": 110,
+    "town": "GRAFTON",
+    "fips": 25027
+  },
+  {
+    "id": 111,
+    "town": "GRANBY",
+    "fips": 25015
+  },
+  {
+    "id": 114,
+    "town": "GREENFIELD",
+    "fips": 25011
+  },
+  {
+    "id": 115,
+    "town": "GROTON",
+    "fips": 25017
+  },
+  {
+    "id": 117,
+    "town": "HADLEY",
+    "fips": 25015
+  },
+  {
+    "id": 118,
+    "town": "HALIFAX",
+    "fips": 25023
+  },
+  {
+    "id": 119,
+    "town": "HAMILTON",
+    "fips": 25009
+  },
+  {
+    "id": 122,
+    "town": "HANOVER",
+    "fips": 25023
+  },
+  {
+    "id": 123,
+    "town": "HANSON",
+    "fips": 25023
+  },
+  {
+    "id": 128,
+    "town": "HAVERHILL",
+    "fips": 25009
+  },
+  {
+    "id": 129,
+    "town": "HAWLEY",
+    "fips": 25011
+  },
+  {
+    "id": 124,
+    "town": "HARDWICK",
+    "fips": 25027
+  },
+  {
+    "id": 125,
+    "town": "HARVARD",
+    "fips": 25027
+  },
+  {
+    "id": 126,
+    "town": "HARWICH",
+    "fips": 25001
+  },
+  {
+    "id": 127,
+    "town": "HATFIELD",
+    "fips": 25015
+  },
+  {
+    "id": 130,
+    "town": "HEATH",
+    "fips": 25011
+  },
+  {
+    "id": 131,
+    "town": "HINGHAM",
+    "fips": 25023
+  },
+  {
+    "id": 132,
+    "town": "HINSDALE",
+    "fips": 25003
+  },
+  {
+    "id": 133,
+    "town": "HOLBROOK",
+    "fips": 25021
+  },
+  {
+    "id": 134,
+    "town": "HOLDEN",
+    "fips": 25027
+  },
+  {
+    "id": 135,
+    "town": "HOLLAND",
+    "fips": 25013
+  },
+  {
+    "id": 140,
+    "town": "HUBBARDSTON",
+    "fips": 25027
+  },
+  {
+    "id": 136,
+    "town": "HOLLISTON",
+    "fips": 25017
+  },
+  {
+    "id": 137,
+    "town": "HOLYOKE",
+    "fips": 25013
+  },
+  {
+    "id": 138,
+    "town": "HOPEDALE",
+    "fips": 25027
+  },
+  {
+    "id": 139,
+    "town": "HOPKINTON",
+    "fips": 25017
+  },
+  {
+    "id": 141,
+    "town": "HUDSON",
+    "fips": 25017
+  },
+  {
+    "id": 142,
+    "town": "HULL",
+    "fips": 25023
+  },
+  {
+    "id": 143,
+    "town": "HUNTINGTON",
+    "fips": 25015
+  },
+  {
+    "id": 144,
+    "town": "IPSWICH",
+    "fips": 25009
+  },
+  {
+    "id": 145,
+    "town": "KINGSTON",
+    "fips": 25023
+  },
+  {
+    "id": 148,
+    "town": "LANESBOROUGH",
+    "fips": 25003
+  },
+  {
+    "id": 146,
+    "town": "LAKEVILLE",
+    "fips": 25023
+  },
+  {
+    "id": 147,
+    "town": "LANCASTER",
+    "fips": 25027
+  },
+  {
+    "id": 149,
+    "town": "LAWRENCE",
+    "fips": 25009
+  },
+  {
+    "id": 150,
+    "town": "LEE",
+    "fips": 25003
+  },
+  {
+    "id": 151,
+    "town": "LEICESTER",
+    "fips": 25027
+  },
+  {
+    "id": 152,
+    "town": "LENOX",
+    "fips": 25003
+  },
+  {
+    "id": 153,
+    "town": "LEOMINSTER",
+    "fips": 25027
+  },
+  {
+    "id": 154,
+    "town": "LEVERETT",
+    "fips": 25011
+  },
+  {
+    "id": 155,
+    "town": "LEXINGTON",
+    "fips": 25017
+  },
+  {
+    "id": 156,
+    "town": "LEYDEN",
+    "fips": 25011
+  },
+  {
+    "id": 157,
+    "town": "LINCOLN",
+    "fips": 25017
+  },
+  {
+    "id": 158,
+    "town": "LITTLETON",
+    "fips": 25017
+  },
+  {
+    "id": 159,
+    "town": "LONGMEADOW",
+    "fips": 25013
+  },
+  {
+    "id": 160,
+    "town": "LOWELL",
+    "fips": 25017
+  },
+  {
+    "id": 161,
+    "town": "LUDLOW",
+    "fips": 25013
+  },
+  {
+    "id": 162,
+    "town": "LUNENBURG",
+    "fips": 25027
+  },
+  {
+    "id": 163,
+    "town": "LYNN",
+    "fips": 25009
+  },
+  {
+    "id": 164,
+    "town": "LYNNFIELD",
+    "fips": 25009
+  },
+  {
+    "id": 165,
+    "town": "MALDEN",
+    "fips": 25017
+  },
+  {
+    "id": 166,
+    "town": "MANCHESTER",
+    "fips": 25009
+  },
+  {
+    "id": 167,
+    "town": "MANSFIELD",
+    "fips": 25005
+  },
+  {
+    "id": 168,
+    "town": "MARBLEHEAD",
+    "fips": 25009
+  },
+  {
+    "id": 169,
+    "town": "MARION",
+    "fips": 25023
+  },
+  {
+    "id": 170,
+    "town": "MARLBOROUGH",
+    "fips": 25017
+  },
+  {
+    "id": 171,
+    "town": "MARSHFIELD",
+    "fips": 25023
+  },
+  {
+    "id": 178,
+    "town": "MELROSE",
+    "fips": 25017
+  },
+  {
+    "id": 172,
+    "town": "MASHPEE",
+    "fips": 25001
+  },
+  {
+    "id": 173,
+    "town": "MATTAPOISETT",
+    "fips": 25023
+  },
+  {
+    "id": 174,
+    "town": "MAYNARD",
+    "fips": 25017
+  },
+  {
+    "id": 175,
+    "town": "MEDFIELD",
+    "fips": 25021
+  },
+  {
+    "id": 176,
+    "town": "MEDFORD",
+    "fips": 25017
+  },
+  {
+    "id": 177,
+    "town": "MEDWAY",
+    "fips": 25021
+  },
+  {
+    "id": 179,
+    "town": "MENDON",
+    "fips": 25027
+  },
+  {
+    "id": 180,
+    "town": "MERRIMAC",
+    "fips": 25009
+  },
+  {
+    "id": 181,
+    "town": "METHUEN",
+    "fips": 25009
+  },
+  {
+    "id": 183,
+    "town": "MIDDLEFIELD",
+    "fips": 25015
+  },
+  {
+    "id": 182,
+    "town": "MIDDLEBOROUGH",
+    "fips": 25023
+  },
+  {
+    "id": 184,
+    "town": "MIDDLETON",
+    "fips": 25009
+  },
+  {
+    "id": 185,
+    "town": "MILFORD",
+    "fips": 25027
+  },
+  {
+    "id": 186,
+    "town": "MILLBURY",
+    "fips": 25027
+  },
+  {
+    "id": 190,
+    "town": "MONROE",
+    "fips": 25011
+  },
+  {
+    "id": 187,
+    "town": "MILLIS",
+    "fips": 25021
+  },
+  {
+    "id": 188,
+    "town": "MILLVILLE",
+    "fips": 25027
+  },
+  {
+    "id": 189,
+    "town": "MILTON",
+    "fips": 25021
+  },
+  {
+    "id": 198,
+    "town": "NATICK",
+    "fips": 25017
+  },
+  {
+    "id": 191,
+    "town": "MONSON",
+    "fips": 25013
+  },
+  {
+    "id": 192,
+    "town": "MONTAGUE",
+    "fips": 25011
+  },
+  {
+    "id": 193,
+    "town": "MONTEREY",
+    "fips": 25003
+  },
+  {
+    "id": 194,
+    "town": "MONTGOMERY",
+    "fips": 25013
+  },
+  {
+    "id": 195,
+    "town": "MOUNT WASHINGTON",
+    "fips": 25003
+  },
+  {
+    "id": 196,
+    "town": "NAHANT",
+    "fips": 25009
+  },
+  {
+    "id": 197,
+    "town": "NANTUCKET",
+    "fips": 25019
+  },
+  {
+    "id": 199,
+    "town": "NEEDHAM",
+    "fips": 25021
+  },
+  {
+    "id": 201,
+    "town": "NEW BEDFORD",
+    "fips": 25005
+  },
+  {
+    "id": 202,
+    "town": "NEW BRAINTREE",
+    "fips": 25027
+  },
+  {
+    "id": 203,
+    "town": "NEW MARLBOROUGH",
+    "fips": 25003
+  },
+  {
+    "id": 204,
+    "town": "NEW SALEM",
+    "fips": 25011
+  },
+  {
+    "id": 205,
+    "town": "NEWBURY",
+    "fips": 25009
+  },
+  {
+    "id": 206,
+    "town": "NEWBURYPORT",
+    "fips": 25009
+  },
+  {
+    "id": 207,
+    "town": "NEWTON",
+    "fips": 25017
+  },
+  {
+    "id": 208,
+    "town": "NORFOLK",
+    "fips": 25021
+  },
+  {
+    "id": 209,
+    "town": "NORTH ADAMS",
+    "fips": 25003
+  },
+  {
+    "id": 210,
+    "town": "NORTH ANDOVER",
+    "fips": 25009
+  },
+  {
+    "id": 211,
+    "town": "NORTH ATTLEBOROUGH",
+    "fips": 25005
+  },
+  {
+    "id": 212,
+    "town": "NORTH BROOKFIELD",
+    "fips": 25027
+  },
+  {
+    "id": 213,
+    "town": "NORTH READING",
+    "fips": 25017
+  },
+  {
+    "id": 214,
+    "town": "NORTHAMPTON",
+    "fips": 25015
+  },
+  {
+    "id": 215,
+    "town": "NORTHBOROUGH",
+    "fips": 25027
+  },
+  {
+    "id": 216,
+    "town": "NORTHBRIDGE",
+    "fips": 25027
+  },
+  {
+    "id": 217,
+    "town": "NORTHFIELD",
+    "fips": 25011
+  },
+  {
+    "id": 218,
+    "town": "NORTON",
+    "fips": 25005
+  },
+  {
+    "id": 223,
+    "town": "ORANGE",
+    "fips": 25011
+  },
+  {
+    "id": 224,
+    "town": "ORLEANS",
+    "fips": 25001
+  },
+  {
+    "id": 219,
+    "town": "NORWELL",
+    "fips": 25023
+  },
+  {
+    "id": 220,
+    "town": "NORWOOD",
+    "fips": 25021
+  },
+  {
+    "id": 225,
+    "town": "OTIS",
+    "fips": 25003
+  },
+  {
+    "id": 221,
+    "town": "OAK BLUFFS",
+    "fips": 25007
+  },
+  {
+    "id": 222,
+    "town": "OAKHAM",
+    "fips": 25027
+  },
+  {
+    "id": 226,
+    "town": "OXFORD",
+    "fips": 25027
+  },
+  {
+    "id": 227,
+    "town": "PALMER",
+    "fips": 25013
+  },
+  {
+    "id": 228,
+    "town": "PAXTON",
+    "fips": 25027
+  },
+  {
+    "id": 229,
+    "town": "PEABODY",
+    "fips": 25009
+  },
+  {
+    "id": 230,
+    "town": "PELHAM",
+    "fips": 25015
+  },
+  {
+    "id": 231,
+    "town": "PEMBROKE",
+    "fips": 25023
+  },
+  {
+    "id": 232,
+    "town": "PEPPERELL",
+    "fips": 25017
+  },
+  {
+    "id": 233,
+    "town": "PERU",
+    "fips": 25003
+  },
+  {
+    "id": 234,
+    "town": "PETERSHAM",
+    "fips": 25027
+  },
+  {
+    "id": 235,
+    "town": "PHILLIPSTON",
+    "fips": 25027
+  },
+  {
+    "id": 236,
+    "town": "PITTSFIELD",
+    "fips": 25003
+  },
+  {
+    "id": 237,
+    "town": "PLAINFIELD",
+    "fips": 25015
+  },
+  {
+    "id": 238,
+    "town": "PLAINVILLE",
+    "fips": 25021
+  },
+  {
+    "id": 239,
+    "town": "PLYMOUTH",
+    "fips": 25023
+  },
+  {
+    "id": 240,
+    "town": "PLYMPTON",
+    "fips": 25023
+  },
+  {
+    "id": 241,
+    "town": "PRINCETON",
+    "fips": 25027
+  },
+  {
+    "id": 242,
+    "town": "PROVINCETOWN",
+    "fips": 25001
+  },
+  {
+    "id": 257,
+    "town": "RUTLAND",
+    "fips": 25027
+  },
+  {
+    "id": 243,
+    "town": "QUINCY",
+    "fips": 25021
+  },
+  {
+    "id": 244,
+    "town": "RANDOLPH",
+    "fips": 25021
+  },
+  {
+    "id": 260,
+    "town": "SANDISFIELD",
+    "fips": 25003
+  },
+  {
+    "id": 245,
+    "town": "RAYNHAM",
+    "fips": 25005
+  },
+  {
+    "id": 246,
+    "town": "READING",
+    "fips": 25017
+  },
+  {
+    "id": 247,
+    "town": "REHOBOTH",
+    "fips": 25005
+  },
+  {
+    "id": 248,
+    "town": "REVERE",
+    "fips": 25025
+  },
+  {
+    "id": 249,
+    "town": "RICHMOND",
+    "fips": 25003
+  },
+  {
+    "id": 250,
+    "town": "ROCHESTER",
+    "fips": 25023
+  },
+  {
+    "id": 251,
+    "town": "ROCKLAND",
+    "fips": 25023
+  },
+  {
+    "id": 252,
+    "town": "ROCKPORT",
+    "fips": 25009
+  },
+  {
+    "id": 253,
+    "town": "ROWE",
+    "fips": 25011
+  },
+  {
+    "id": 254,
+    "town": "ROWLEY",
+    "fips": 25009
+  },
+  {
+    "id": 255,
+    "town": "ROYALSTON",
+    "fips": 25027
+  },
+  {
+    "id": 256,
+    "town": "RUSSELL",
+    "fips": 25013
+  },
+  {
+    "id": 258,
+    "town": "SALEM",
+    "fips": 25009
+  },
+  {
+    "id": 259,
+    "town": "SALISBURY",
+    "fips": 25009
+  },
+  {
+    "id": 261,
+    "town": "SANDWICH",
+    "fips": 25001
+  },
+  {
+    "id": 262,
+    "town": "SAUGUS",
+    "fips": 25009
+  },
+  {
+    "id": 263,
+    "town": "SAVOY",
+    "fips": 25003
+  },
+  {
+    "id": 264,
+    "town": "SCITUATE",
+    "fips": 25023
+  },
+  {
+    "id": 265,
+    "town": "SEEKONK",
+    "fips": 25005
+  },
+  {
+    "id": 266,
+    "town": "SHARON",
+    "fips": 25021
+  },
+  {
+    "id": 285,
+    "town": "STOUGHTON",
+    "fips": 25021
+  },
+  {
+    "id": 267,
+    "town": "SHEFFIELD",
+    "fips": 25003
+  },
+  {
+    "id": 268,
+    "town": "SHELBURNE",
+    "fips": 25011
+  },
+  {
+    "id": 269,
+    "town": "SHERBORN",
+    "fips": 25017
+  },
+  {
+    "id": 270,
+    "town": "SHIRLEY",
+    "fips": 25017
+  },
+  {
+    "id": 271,
+    "town": "SHREWSBURY",
+    "fips": 25027
+  },
+  {
+    "id": 272,
+    "town": "SHUTESBURY",
+    "fips": 25011
+  },
+  {
+    "id": 286,
+    "town": "STOW",
+    "fips": 25017
+  },
+  {
+    "id": 273,
+    "town": "SOMERSET",
+    "fips": 25005
+  },
+  {
+    "id": 274,
+    "town": "SOMERVILLE",
+    "fips": 25017
+  },
+  {
+    "id": 275,
+    "town": "SOUTH HADLEY",
+    "fips": 25015
+  },
+  {
+    "id": 276,
+    "town": "SOUTHAMPTON",
+    "fips": 25015
+  },
+  {
+    "id": 277,
+    "town": "SOUTHBOROUGH",
+    "fips": 25027
+  },
+  {
+    "id": 278,
+    "town": "SOUTHBRIDGE",
+    "fips": 25027
+  },
+  {
+    "id": 279,
+    "town": "SOUTHWICK",
+    "fips": 25013
+  },
+  {
+    "id": 280,
+    "town": "SPENCER",
+    "fips": 25027
+  },
+  {
+    "id": 281,
+    "town": "SPRINGFIELD",
+    "fips": 25013
+  },
+  {
+    "id": 282,
+    "town": "STERLING",
+    "fips": 25027
+  },
+  {
+    "id": 283,
+    "town": "STOCKBRIDGE",
+    "fips": 25003
+  },
+  {
+    "id": 284,
+    "town": "STONEHAM",
+    "fips": 25017
+  },
+  {
+    "id": 287,
+    "town": "STURBRIDGE",
+    "fips": 25027
+  },
+  {
+    "id": 288,
+    "town": "SUDBURY",
+    "fips": 25017
+  },
+  {
+    "id": 289,
+    "town": "SUNDERLAND",
+    "fips": 25011
+  },
+  {
+    "id": 317,
+    "town": "WELLESLEY",
+    "fips": 25021
+  },
+  {
+    "id": 290,
+    "town": "SUTTON",
+    "fips": 25027
+  },
+  {
+    "id": 291,
+    "town": "SWAMPSCOTT",
+    "fips": 25009
+  },
+  {
+    "id": 292,
+    "town": "SWANSEA",
+    "fips": 25005
+  },
+  {
+    "id": 331,
+    "town": "WESTHAMPTON",
+    "fips": 25015
+  },
+  {
+    "id": 293,
+    "town": "TAUNTON",
+    "fips": 25005
+  },
+  {
+    "id": 346,
+    "town": "WINTHROP",
+    "fips": 25025
+  },
+  {
+    "id": 294,
+    "town": "TEMPLETON",
+    "fips": 25027
+  },
+  {
+    "id": 295,
+    "town": "TEWKSBURY",
+    "fips": 25017
+  },
+  {
+    "id": 301,
+    "town": "TYNGSBOROUGH",
+    "fips": 25017
+  },
+  {
+    "id": 296,
+    "town": "TISBURY",
+    "fips": 25007
+  },
+  {
+    "id": 297,
+    "town": "TOLLAND",
+    "fips": 25013
+  },
+  {
+    "id": 302,
+    "town": "TYRINGHAM",
+    "fips": 25003
+  },
+  {
+    "id": 298,
+    "town": "TOPSFIELD",
+    "fips": 25009
+  },
+  {
+    "id": 299,
+    "town": "TOWNSEND",
+    "fips": 25017
+  },
+  {
+    "id": 300,
+    "town": "TRURO",
+    "fips": 25001
+  },
+  {
+    "id": 303,
+    "town": "UPTON",
+    "fips": 25027
+  },
+  {
+    "id": 304,
+    "town": "UXBRIDGE",
+    "fips": 25027
+  },
+  {
+    "id": 305,
+    "town": "WAKEFIELD",
+    "fips": 25017
+  },
+  {
+    "id": 306,
+    "town": "WALES",
+    "fips": 25013
+  },
+  {
+    "id": 307,
+    "town": "WALPOLE",
+    "fips": 25021
+  },
+  {
+    "id": 308,
+    "town": "WALTHAM",
+    "fips": 25017
+  },
+  {
+    "id": 312,
+    "town": "WARWICK",
+    "fips": 25011
+  },
+  {
+    "id": 313,
+    "town": "WASHINGTON",
+    "fips": 25003
+  },
+  {
+    "id": 309,
+    "town": "WARE",
+    "fips": 25015
+  },
+  {
+    "id": 310,
+    "town": "WAREHAM",
+    "fips": 25023
+  },
+  {
+    "id": 311,
+    "town": "WARREN",
+    "fips": 25027
+  },
+  {
+    "id": 314,
+    "town": "WATERTOWN",
+    "fips": 25017
+  },
+  {
+    "id": 315,
+    "town": "WAYLAND",
+    "fips": 25017
+  },
+  {
+    "id": 316,
+    "town": "WEBSTER",
+    "fips": 25027
+  },
+  {
+    "id": 318,
+    "town": "WELLFLEET",
+    "fips": 25001
+  },
+  {
+    "id": 319,
+    "town": "WENDELL",
+    "fips": 25011
+  },
+  {
+    "id": 320,
+    "town": "WENHAM",
+    "fips": 25009
+  },
+  {
+    "id": 321,
+    "town": "WEST BOYLSTON",
+    "fips": 25027
+  },
+  {
+    "id": 322,
+    "town": "WEST BRIDGEWATER",
+    "fips": 25023
+  },
+  {
+    "id": 323,
+    "town": "WEST BROOKFIELD",
+    "fips": 25027
+  },
+  {
+    "id": 324,
+    "town": "WEST NEWBURY",
+    "fips": 25009
+  },
+  {
+    "id": 325,
+    "town": "WEST SPRINGFIELD",
+    "fips": 25013
+  },
+  {
+    "id": 326,
+    "town": "WEST STOCKBRIDGE",
+    "fips": 25003
+  },
+  {
+    "id": 327,
+    "town": "WEST TISBURY",
+    "fips": 25007
+  },
+  {
+    "id": 328,
+    "town": "WESTBOROUGH",
+    "fips": 25027
+  },
+  {
+    "id": 329,
+    "town": "WESTFIELD",
+    "fips": 25013
+  },
+  {
+    "id": 330,
+    "town": "WESTFORD",
+    "fips": 25017
+  },
+  {
+    "id": 332,
+    "town": "WESTMINSTER",
+    "fips": 25027
+  },
+  {
+    "id": 333,
+    "town": "WESTON",
+    "fips": 25017
+  },
+  {
+    "id": 334,
+    "town": "WESTPORT",
+    "fips": 25005
+  },
+  {
+    "id": 335,
+    "town": "WESTWOOD",
+    "fips": 25021
+  },
+  {
+    "id": 336,
+    "town": "WEYMOUTH",
+    "fips": 25021
+  },
+  {
+    "id": 337,
+    "town": "WHATELY",
+    "fips": 25011
+  },
+  {
+    "id": 338,
+    "town": "WHITMAN",
+    "fips": 25023
+  },
+  {
+    "id": 339,
+    "town": "WILBRAHAM",
+    "fips": 25013
+  },
+  {
+    "id": 340,
+    "town": "WILLIAMSBURG",
+    "fips": 25015
+  },
+  {
+    "id": 341,
+    "town": "WILLIAMSTOWN",
+    "fips": 25003
+  },
+  {
+    "id": 342,
+    "town": "WILMINGTON",
+    "fips": 25017
+  },
+  {
+    "id": 343,
+    "town": "WINCHENDON",
+    "fips": 25027
+  },
+  {
+    "id": 344,
+    "town": "WINCHESTER",
+    "fips": 25017
+  },
+  {
+    "id": 345,
+    "town": "WINDSOR",
+    "fips": 25003
+  },
+  {
+    "id": 347,
+    "town": "WOBURN",
+    "fips": 25017
+  },
+  {
+    "id": 348,
+    "town": "WORCESTER",
+    "fips": 25027
+  },
+  {
+    "id": 349,
+    "town": "WORTHINGTON",
+    "fips": 25015
+  },
+  {
+    "id": 350,
+    "town": "WRENTHAM",
+    "fips": 25021
+  },
+  {
+    "id": 351,
+    "town": "YARMOUTH",
+    "fips": 25001
+  }
+]

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="shortcut icon"
+      type="image/png"
+      href="https://s3.us-east-2.wasabisys.com/lmec-public-files/images/LMEC_compass_transparent.png"
+    />
+    <title>Wandering Boston's Little Syria</title>
+    <link rel="stylesheet" href="https://use.typekit.net/dnd5qwo.css" />
+    <link rel="stylesheet" href="https://unpkg.com/bulma@0.9.2/css/bulma.css" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Inconsolata"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js" defer></script>
+    <script src="https://use.fontawesome.com/a42111acc2.js"></script>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="leaflet-side-by-side.js"></script>
+  </head>
+
+  <body>
+    <div id="hoverbox"></div>
+    <nav
+      class="navbar mx-4 mt-4 is-fixed-top"
+      role="navigation"
+      aria-label="main navigation"
+    >
+      <div class="navbar-brand">
+        <!--         <img src="https://raw.githubusercontent.com/chloebordewich/boston-little-syria/main/stGeorgeChurchTylerStreet.JPG" width="1.2%"> -->
+        <p class="heading is-size-4 p-4">WANDERING BOSTON'S LITTLE SYRIA</p>
+      </div>
+    </nav>
+    <section id="map-section" class="p-5">
+      <div class="columns">
+        <div class="column is-one-quarter">
+          <div class="sidebar-left" id="sidebar">
+            <div class="columns">
+              <p class="header is-size-5">Name</p>
+            </div>
+            <div class="columns">
+              <p class="descriptive" id="siteName">Click on a point to learn more</p> 
+            </div>
+            <div class="columns">
+              <p class="header is-size-5">Address</p>
+            </div>
+            <div class="columns">
+              <p class="descriptive" id="address">Historical address</p> 
+            </div>
+            <div class="columns">
+              <p class="header is-size-5">Site type</p>
+            </div>
+            <div class="columns">
+              <p class="descriptive" id="siteType">Type of institution</p> 
+            </div>
+            <div class="columns">
+              <p class="header is-size-5">Date range</p>
+            </div>
+            <div class="columns">
+              <p class="descriptive" id="dates">Estimated dates of operation</p> 
+            </div>
+            <div class="columns">
+              <p class="header is-size-5">Description</p>
+            </div>
+            <div class="columns">
+              <p class="descriptive" id="popupText">Descriptive information</p> 
+            </div>
+          </div>
+        </div>
+        <div class="column is-one-half">
+          <div id="leaflet-map"></div>
+          <div class="columns bottom-matter">
+            <p class="has-text-centered mx-3 mt-5">
+              Little Syria, or Syriantown, thrived from the late 1880s through
+              the 1950s in what is today Chinatown and part of the South End of
+              Boston. Few visible traces remain. The
+              <a href="https://bostonlittlesyria.org/" target="blank"
+                >Boston Little Syria Project</a
+              >
+              aims to document its history in collaboration with the
+              neighborhood's former residents and their descendants. This
+              map was developed with Ian Spangler and supported by the
+              <a href="https://leventhalmap.org" target="blank"
+                >Leventhal Map and Education Center</a
+              >.
+            </p>
+          </div>
+        </div>
+        <div class="column is-one-quarter">
+          <div class="sidebar-right">
+            <div class="columns">
+              <p class="header is-size-5">Image</p>
+            </div>
+            <div class="columns">
+              <p id="embeddedPic"></p> 
+            </div>
+            <div class="columns bottom-matter mx-0">
+              <p id="imageSource"></p> 
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <nav
+      class="has-text-centered is-flex-align-items-flex-end mt-auto is-fixed-bottom"
+    >
+      <div class="container has-text-centered">
+      </div>
+    </nav>
+  </body>
+</html>

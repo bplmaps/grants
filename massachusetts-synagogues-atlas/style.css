@@ -1,0 +1,243 @@
+/* CSS files add styling rules to your content */
+
+html,
+body {
+  font-family: azo-sans-web, helvetica, arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: rgb(255, 250, 250);/*   background: linear-gradient(
+    45deg,
+    rgba(31, 158, 180, 0.1) 0%,
+    rgba(252, 176, 69, 0.1) 100%
+  ); */
+  width: 100%;
+  height: 100%;
+}
+
+#leaflet-map {
+  font-family: azo-sans-web, helvetica, arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: rgb(255, 250, 250);/*   background: linear-gradient(
+    45deg,
+    rgba(31, 158, 180, 0.1) 0%,
+    rgba(252, 176, 69, 0.1) 100%
+  ); */
+  width: 100%;
+  height: 100%;
+}
+
+h1 {
+  font-weight: 700;
+  color: black;
+}
+
+.small-logo {
+  height: 50px;
+/*   width: auto; */
+}
+
+
+.top-matter {
+  font-weight: 500;
+  background: rgb(255, 250, 250);
+  width: 100vw;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  font-size: 12px;
+}
+
+#lmec-logo {
+  height: 2.5em;
+  margin-right: 5px;
+  width: auto;
+}
+
+icon {
+  background: "red";
+  opacity: 90%;
+}
+
+#sidebar {
+  background: rgb(255, 250, 250);
+  height: 100vh;
+  overflow-x: scroll;
+  overflow-y: scroll;
+}
+
+.filter-green {
+  filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg)
+    brightness(118%) contrast(119%);
+}
+
+/* Legend */
+
+.legend {
+  padding: 20px 20px;
+  font: 14px azo-sans-web, Arial, Helvetica, sans-serif;
+  background: rgb(255, 250, 250);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  line-height: 24px;
+  color: #555555;
+}
+.legend h4 {
+  text-align: left;
+  font-size: 16px;
+  margin: 2px 12px 8px;
+  color: black;
+}
+
+.legend span {
+  position: relative;
+  bottom: 3px;
+  color: black;
+}
+
+.legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin: 0 8px 0 0;
+}
+
+.legend i.icon {
+  background-size: 18px;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.leaflet-popup-content {
+  font: 18px azo-sans-web, Arial, Helvetica, sans-serif;
+  background: white;
+  background: rgba(255, 255, 255, 0.9);
+  /*box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);*/
+  /*border-radius: 5px;*/
+  line-height: 24px;
+  color: black;
+  border-radius: 10px;
+}
+
+/* make popup top line a little bigger */
+
+.searchbox {
+  text-align: left;
+  font-size: 16px;
+  margin: 2px 12px 8px;
+  color: black;
+  background: rgb(255, 250, 250);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
+
+.synagogues {
+  /*   fill: none; */
+  stroke: white;
+  stroke-width: 50px;
+  stroke-dasharray: 2, 2;
+  /*   stroke-linejoin: round; */
+}
+
+/* .box {
+  background: rgb(255, 250, 250, 0.8);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
+ */
+
+#leaflet-control {
+  margin: 10px 10px 10px 10px;
+}
+
+.leaflet-bottom .leaflet-control {
+  margin-left: 0px !important;
+  margin-bottom: 0px !important;
+}
+
+.leaflet-top .leaflet-control {
+    margin-top: 10px;
+    margin-right: 10px !important;
+}
+
+.credit {
+  text-align: left;
+  font-size: 12px;
+  margin: 2px 12px 8px;
+  color: black;
+  background: rgb(255, 250, 250) !important;
+/*   box-shadow: 0 0 15px rgba(0, 0, 0, 0.2); */
+  border-radius: 5px;
+}
+
+.button {
+ font-family: azo-sans-web, helvetica, arial, sans-serif; 
+}
+
+.sidebarText {
+  text-align: left;
+  margin: 2px 12px 8px;
+}
+
+.heading {
+  text-align: left;
+  font-weight: 800;
+  letter-spacing: 2px;
+  color: #2567cd;
+  margin: 2px 12px 8px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+* { box-sizing: border-box; }
+body {
+  font: 16px Arial;
+}
+.autocomplete {
+  /*the container must be positioned relative:*/
+  position: relative;
+  display: inline-block;
+}
+input {
+  border: 1px solid transparent;
+  background-color: #f1f1f1;
+  padding: 10px;
+  font-size: 16px;
+}
+input[type=text] {
+  background-color: #f1f1f1;
+  width: 100%;
+}
+input[type=submit] {
+  background-color: DodgerBlue;
+  color: #fff;
+}
+.autocomplete-items {
+  position: absolute;
+  border: 1px solid #d4d4d4;
+  border-bottom: none;
+  border-top: none;
+  z-index: 99;
+  /*position the autocomplete items to be the same width as the container:*/
+  top: 100%;
+  left: 0;
+  right: 0;
+}
+.autocomplete-items div {
+  padding: 10px;
+  cursor: pointer;
+  background-color: #fff;
+  border-bottom: 1px solid #d4d4d4;
+}
+.autocomplete-items div:hover {
+  /*when hovering an item:*/
+  background-color: #e9e9e9;
+}
+.autocomplete-active {
+  /*when navigating through the items using the arrow keys:*/
+  background-color: DodgerBlue !important;
+  color: #ffffff;
+}
