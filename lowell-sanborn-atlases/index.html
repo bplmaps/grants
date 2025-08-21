@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link
+      rel="shortcut icon"
+      type="image/png"
+      href="https://s3.us-east-2.wasabisys.com/lmec-public-files/images/LMEC_compass_transparent.png"
+    />
+
+    <title>Historic Lowell</title>
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script src="script.js" defer></script>
+
+    <!-- External JS goes here -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.25.0/axios.min.js"></script>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="https://unpkg.com/topojson@3.0.2/dist/topojson.min.js"></script>
+    <script src="https://unpkg.com/@turf/turf@6.5.0/turf.min.js"></script>
+    <script src="https://unpkg.com/autocompleter@6.1.2/autocomplete.js"></script>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="leaflet-side-by-side.js"></script>
+
+    <script src="plugin/Leaflet.Control.Opacity/dist/L.Control.Opacity.js"></script>
+
+    <!-- External CSS goes here -->
+    <link rel="stylesheet" href="https://use.typekit.net/dnd5qwo.css" />
+    <link rel="stylesheet" href="https://unpkg.com/bulma@0.9.2/css/bulma.css" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    />
+    <!--     <link href="plugin/Leaflet.Control.Opacity/dist/L.Control.Opacity.css" rel="stylesheet" /> -->
+  </head>
+  <body class="has-navbar-fixed-top">
+    <nav class="navbar is-fixed-top">
+      <div class="navbar-brand">
+        <a class="navbar-item" href="https://leventhalmap.org">
+          <img
+            src="https://s3.us-east-2.wasabisys.com/lmec-public-files/images/LMEC_compass_transparent.png"
+            id="lmec-logo"
+            alt="LMEC Logo"
+          />
+        </a>
+      </div>
+      <div class="navbar-menu">
+        <div class="navbar-start">
+          <h1 class="heading is-size-3 has-text-centered">
+            Historic Lowell, Massachusetts
+          </h1>
+        </div>
+        <div class="navbar-end">
+        </div>
+      </div>
+    </nav>
+    <div id="container">
+      <div id="leaflet-map"></div>
+    </div>
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet-src.js"></script>
+    <script src="http://leaflet.github.io/Leaflet.label/leaflet.label.js"></script>
+    <script src="script.js"></script>
+    <script src="https://button.glitch.me/button.js" defer></script>
+  </body>
+</html>

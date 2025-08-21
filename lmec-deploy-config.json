@@ -1,0 +1,17 @@
+{
+  "documentation": null,
+  "updateFrequency": [
+    {
+      "crontab": null,
+      "human": "On a grant-by-grant basis"
+    }
+  ],
+  "netlifyBuildSettings": [
+    {
+      "baseDir": "/",
+      "publishDir": "",
+      "publicRoot": null,
+      "deployUrl": null
+    }
+  ]
+}

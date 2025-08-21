@@ -1,0 +1,88 @@
+/* CSS files add styling rules to your content */
+
+html,
+body,
+#container {
+  height: 100%;
+  overflow: hidden;
+  width: 100%;
+}
+
+#sidebar {
+  float: left;
+  height: 100%;
+  max-width: 100%;
+  width: 150px;
+}
+#map {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  height: 100%;
+  width: auto;
+}
+.sidebar-wrapper {
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+@media (max-width: 767px) {
+  #sidebar {
+    display: none;
+  }
+}
+
+h1 {
+  font-weight: 700;
+  color: black;
+}
+
+#leaflet-map {
+  width: auto;
+  height: 100%;
+}
+
+.rightLayers {
+  filter: brightness(50%); 
+}
+
+.legend-box {
+  font-weight: 600;
+  padding: 5px;
+  display: inline-block;
+  margin: 5px;
+}
+
+.navbar-menu {
+/*   opacity: 0.5; */
+}
+
+footer .small-logo {
+  height: 25px;
+  width: auto;
+}
+
+.heading {
+  font-weight: 900;
+  letter-spacing: 2px;
+  color: #fcb131;
+  text-shadow: 2px 2px 0 #ee334e;
+}
+
+.top-matter p {
+  font-weight: 500;
+}
+
+.input-bg {
+  background: linear-gradient(
+    0deg,
+    rgba(191, 158, 120, 0) 5%,
+    rgba(64, 175, 119, 0.1) 25%,
+    rgba(110, 175, 111, 0.1) 75%,
+    rgba(252, 136, 69, 0) 95%
+  );
+}
+
+#lmec-logo {
+  height: 2.5em;
+  margin-right: 5px;
+  width: auto;
+}
