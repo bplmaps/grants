@@ -1,559 +1,749 @@
 [
   {
-    "location_name": "Row 1",
+    "location_name": "Boston Public Library South End Branch",
     "location_number": 1,
     "images": [
       {
         "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463k343/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "title": "South End Branch. Mrs. Cronan Telling a Story",
+        "format": "Photograph",
         "url": "https://ark.digitalcommonwealth.org/ark:/50959/3f463k33t",
-        "caption": "Photographer unknown. South End Branch. Mrs. Cronan telling a story. Photograph. [1911\u20131923]. Digital Commonwealth."
+        "caption": "South End Branch. Mrs. Cronan telling a story. Photograph. [1911–1923]. <i>Digital Commonwealth</i>."
       },
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/51/full/full/0/default.jpg",
+        "title": "Early drawings of Allan Rohan Crite, ages 10-17",
+        "format": "Crayon, some with wash on paper sheet",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/51/rec/4",
-        "caption": "Crite, Allan Rohan. [Early drawings of Allan Rohan Crite, ages 10-17]. 1920-1927. Crayon, some with wash, 31.4 x 45.5 cm. Boston Athenaeum."
+        "caption": "Crite, Allan Rohan. <i>[Early drawings of Allan Rohan Crite, ages 10-17]</i>. 1920-1927. Crayon, some with wash, 31.4 x 45.5 cm. Boston Athenaeum."
       }
     ],
-    "description": "sample description here.[1] Here is a second footnote.[2] \n Here is a paragraph break",
+    "description": "Allan Rohan Crite and his parents moved to 401 Shawmut Avenue in Boston’s South End when he was a young child after a brief stint on the same street in Lower Roxbury.[1] The Crite family eventually moved to 2 Dilworth street, in 1925.[2] \n At 401 Shawmut Avenue, Crite first began to draw and illustrate. He was a student at the George Bancroft and Rice Schools, attended classes at the South End’s Children’s Art Centre, and spent time outside the traditional classroom immersed in his neighborhood. The former location of the South End Branch of the Boston Public Library sat down the block from his home at 397 Shawmut Avenue. The branch later moved across the street to the John J. Williams Municipal Building at 400 Shawmut Avenue. Crite was a frequent patron.[3]\n In a 1979 oral history, Crite recalled fondly his time at his family’s first Boston apartment, \"Well, I lived there. You see, I lived at 401 Shawmut Ave. and I also practically lived in the library, right next door. So it meant a great deal to me, a part of my formative period, you might say.\"[4] The South End Branch held an exhibition of Crite’s work in 1950 as part of their Race History Week.[5]",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "U.S. Census Bureau. Fourteenth Census of the United States: 1920-Population. Department of Commerce-Bureau of the Census. National Archives and Record Administration.; Oral history interview with Allan Rohan Crite, 1979 January 16-1980 October 22. Archives of American Art, Smithsonian Institution.; Walshin, Lydia. “Walking Tour.” <i>Glue</i> magazine, September 1997, 17-20."
       },
       {
         "number": 2,
-        "content": "second footnote!!"
+        "content": "U.S. Census Bureau. Fifteenth Census of the United States: 1930. Department of Commerce-Bureau of the Census. National Archives and Record Administration. "
+      },
+      {
+        "number": 3,
+        "content": "\"South End Branch.\" Boston Public Library. <https://www.bpl.org/about-south-end/>."
+      },
+      {
+        "number": 4,
+        "content": "Oral history interview with Allan Rohan Crite, 1979 January 16-1980 October 22. Archives of American Art, Smithsonian Institution."
+      },
+      {
+        "number": 5,
+        "content": "<i>The Guardian</i>. [volume] (Boston, Mass.), 11 Feb. 1950. <i>Chronicling America: Historic American Newspapers</i>. Lib. of Congress. <https://chroniclingamerica.loc.gov/lccn/sn83045863/1950-02-11/ed-1/seq-3/>."
       }
     ]
   },
   {
-    "location_name": "Row 2",
+    "location_name": "401 Shawmut Avenue",
     "location_number": 2,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
-        "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/51/rec/4",
-        "caption": "Crite, Allan Rohan. [Early drawings of Allan Rohan Crite, ages 10-17]. 1920-1927. Crayon, some with wash, 31.4 x 45.5 cm. Boston Athenaeum."
+        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:3f463k343/full/1200,/0/default.jpg",
+        "title": "South End Branch. Mrs. Cronan Telling a Story",
+        "format": "Photograph",
+        "url": "https://ark.digitalcommonwealth.org/ark:/50959/3f463k33t",
+        "caption": "South End Branch. Mrs. Cronan telling a story. Photograph. [1911–1923]. <i>Digital Commonwealth</i>."
       },
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
-        "url": "https://ark.digitalcommonwealth.org/ark:/50959/3f463k33t.",
-        "caption": "South End Branch. Mrs. Cronan telling a story. Photograph. [1911\u20131923]. Digital Commonwealth."
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/51/full/full/0/default.jpg",
+        "title": "Early drawings of Allan Rohan Crite, ages 10-17",
+        "format": "Crayon, some with wash on paper sheet",
+        "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/51/rec/4",
+        "caption": "Crite, Allan Rohan. <i>[Early drawings of Allan Rohan Crite, ages 10-17]</i>. 1920-1927. Crayon, some with wash, 31.4 x 45.5 cm. Boston Athenaeum."
+      },
+      {
+        "path": "https://raw.githubusercontent.com/BostonAthenaeum/AllanRohanCriteBoston/refs/heads/main/images/2_guttedbuilding401.jpg",
+        "title": "Gutted building at 401 Shawmut Avenue",
+        "format": "Photograph",
+        "url": "http://hdl.handle.net/2047/D20225477",
+        "caption": "Courtesy of Inquilinos Boricuas en Acción, Northeastern University Archives and Special Collections. Inquilinos Boricuas en Acción. <i>Gutted Building at 401 Shawmut Avenue</i>. [ca. 1980-1990]. A013511. Photograph. Inquilinos Boricuas en Acción records (M111). Northeastern University Archives and Special Collections."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite and his parents moved to 401 Shawmut Avenue in Boston’s South End when he was a young child after a brief stint on the same street in Lower Roxbury.[1] The Crite family eventually moved to 2 Dilworth street, in 1925.[2] \n At 401 Shawmut Avenue, Crite first began to draw and illustrate. He was a student at the George Bancroft and Rice Schools, attended classes at the South End’s Children’s Art Centre, and spent time outside the traditional classroom immersed in his neighborhood. The former location of the South End Branch of the Boston Public Library sat down the block from his home at 397 Shawmut Avenue. The branch later moved across the street to the John J. Williams Municipal Building at 400 Shawmut Avenue. Crite was a frequent patron.[3]\n In a 1979 oral history, Crite recalled fondly his time at his family’s first Boston apartment, “Well, I lived there. You see, I lived at 401 Shawmut Ave. and I also practically lived in the library, right next door. So it meant a great deal to me, a part of my formative period, you might say.\"[4] The South End Branch held an exhibition of Crite’s work in 1950 as part of their Race History Week.[5]",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "U.S. Census Bureau. Fourteenth Census of the United States: 1920-Population.Department of Commerce-Bureau of the Census. National Archives and Record Administration.; Oral history interview with Allan Rohan Crite, 1979 January 16-1980 October 22. Archives of American Art, Smithsonian Institution.; Walshin, Lydia. “Walking Tour.” <i>Glue</i> magazine, September 1997, 17-20."
+      },
+      {
+        "number": 2,
+        "content": "U.S. Census Bureau. Fifteenth Census of the United States: 1930. Department of Commerce-Bureau of the Census. National Archives and Record Administration. "
+      },
+      {
+        "number": 3,
+        "content": "\"South End Branch.\" Boston Public Library. <https://www.bpl.org/about-south-end/>."
+      },
+      {
+        "number": 4,
+        "content": "Oral history interview with Allan Rohan Crite, 1979 January 16-1980 October 22. Archives of American Art, Smithsonian Institution."
+      },
+      {
+        "number": 5,
+        "content": "<i>The Guardian</i>. [volume] (Boston, Mass.), 11 Feb. 1950. <i>Chronicling America: Historic American Newspapers</i>. Lib. of Congress. <https://chroniclingamerica.loc.gov/lccn/sn83045863/1950-02-11/ed-1/seq-3/>."
       }
     ]
   },
   {
-    "location_name": "Row 3",
+    "location_name": "2 Dilworth Street",
     "location_number": 3,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "path": "https://raw.githubusercontent.com/BostonAthenaeum/AllanRohanCriteBoston/refs/heads/main/images/3_Fruitsnow.jpg",
+        "title": "Fruit and Snow: from my window at 2 Dilworth St.",
+        "format": "Watercolor with ink and white highlights over graphite on paper",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/25/rec/1",
-        "caption": "Crite, Allan Rohan. Fruit and Snow: From My Window at 2 Dilworth St. January 1940. Watercolor with ink and white highlights over graphite on paper, 38.1 x 28 cm. Boston Athenaeum."
+        "caption": "Crite, Allan Rohan. <i>Fruit and Snow: From My Window at 2 Dilworth St</i>. January 1940. Watercolor with ink and white highlights over graphite on paper, 38.1 x 28 cm. Boston Athenaeum."
       },
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "path": "https://github.com/BostonAthenaeum/AllanRohanCriteBoston/blob/main/images/3_girlsplaying.jpg?raw=true",
+        "title": "Girls Playing on My Street",
+        "format": "Watercolor with black ink and white gouache over graphite on paper",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/22/rec/23",
-        "caption": "Crite, Allan Rohan. Girls Playing on My Street. August 1940. Watercolor with black ink and white gouache over graphite, 38.1 x 28 cm. Boston Athenaeum."
+        "caption": "Crite, Allan Rohan. <i>Girls Playing on My Street</i>. August 1940. Watercolor with black ink and white gouache over graphite, 38.1 x 28 cm. Boston Athenaeum."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "In 1925 at the age of fifteen, Allan Rohan Crite moved with his family to 2 Dilworth Street in Lower Roxbury. The young artist spent key moments of his career inside the apartment that sat at the edge of Carter Playground in what was  historically the center of Boston’s Black community following migrations from Beacon Hill, the American South, and the Caribbean.[1] The Boston Redevelopment Authority (BRA) marked Dilworth street as blighted in 1960 and slated the residential block for demolition as part of the South End Urban Renewal Project of 1962. The agency later proposed the cluster of apartment buildings be removed in favor of a new elementary school.[2] According to Byron Rushing, former President of the Museum of African American History and former MA State Representative, the Crite family and their neighbors were eventually displaced when transportation redevelopment authorities demolished 2 Dilworth Street in 1971. Allan and his mother moved to a brownstone at 410 Columbus Avenue, and were among the more fortunate families that were able to relocate within the neighborhood. In total, the BRA estimated that a total of 1,517 families were displaced by the South End Urban Renewal Project.[3] ",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "Dash Nelson, Garrett. “Area D9”. Mapping Inequality: Redlining in New Deal America. <i>Digital Scholarship Lab</i>. <https://dsl.richmond.edu/panorama/redlining>."
+      },
+      {
+        "number": 2,
+        "content": "Boston Redevelopment Authority. \"South End renewal area.\" Map. Boston: Boston Redevelopment Authority, October 1960. <i>Norman B. Leventhal Map & Education Center</i>, <https://collections.leventhalmap.org/search/commonwealth:6t055z60n>; Boston Redevelopment Authority. \"South End urban renewal area R-56.\" Map. Boston: Boston Redevelopment Authority, May 1965. <i>Norman B. Leventhal Map & Education Center</i>, <https://collections.leventhalmap.org/search/commonwealth:7h14cz04q>."
+      },
+      {
+        "number": 3,
+        "content": "We are grateful to Byron Rushing for this information.; Boston Redevelopment Authority. /“South End Profile”. Boston Public Library. <https://archive.org/details/southendprofile00bost/page/n1/mode/2up>."
       }
     ]
   },
   {
-    "location_name": "Row 4",
+    "location_name": "Children's Art Centre",
     "location_number": 4,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/53/full/full/0/default.jpg",
+        "title": "Peter Meets the Men of Cornelius (Acts 10.21)",
+        "format": "Crayon on sheet",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/53/rec/54.",
-        "caption": "Crite, Allan Rohan. [Early Drawings of Allan Rohan Crite, ages 10-17]. 1920-1927. Crayon, 31.4 x 45.5 cm. Boston Athenaeum."
+        "caption": "Crite, Allan Rohan. <i>Peter Meets the Men of Cornelius (Acts 10.21)</i>. 1920-1927. Crayon, 30.4 x 45.5 cm. Boston Athenaeum."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite attended free courses in the arts at the Children’s Art Centre on 36 Rutland Street. Co-directed by Museum of Fine Arts (MFA) curator of prints FitzRoy Carrington, the museum and studio space exposed children to fine art through MFA loans and coursework.[1] At the Children’s Art Centre, Crite received instruction from artists Charles Woodbury and Elizabeth Perkins, both of whom believed anyone could be an artist through repetition, observation, and personal experience. Woodbury and Perkins acknowledged Crite’s talent during his years at the Art Centre, included his drawings in their publication <i>The Art of Seeing: Mental Training through Drawing</i> (1925), and encouraged Crite to continue his work on Biblical Scriptures.[2] Although Crite was a young child during his time at the Centre, Woodbury’s influence is seen throughout Crite’s trajectory and practice. Both Massachusetts painters had technical backgrounds; Woodbury received a degree in Mechanical Engineering from Massachusetts Institute of Technology (MIT) and Crite studied technical design at the School of the Museum of Fine Arts before becoming an illustrator for the Charlestown Navy Yard. The two painters also returned to the same environments repeatedly, painting from both observation and memory.[3] Crite became a member of the board of the Children’s Art Centre in his later adulthood and credited the institution as his first coursework in the arts.[4]",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "United South End Settlements. <https://uses.library.northeastern.edu/history/>."
+      },
+      {
+        "number": 2,
+        "content": "Crite, Allan Rohan. \"Why I Illustrate the Spirituals.\" <i>World Horizons: A Magazine for Young People 1</i> (1938): 44-55."
+      },
+      {
+        "number": 3,
+        "content": "<i>Earth, Sea and Sky: Charles H. Woodbury—Artist and Teacher, 1864-1940</i>. Cambridge, Massachusetts: The MIT Museum, 1988."
+      },
+      {
+        "number": 4,
+        "content": "Diana Seave Greenwald and Christina Michelon, <i>Allan Rohan Crite: Neighborhood Liturgy</i> (Boston: Boston Athenaeum and Isabella Stewart Gardner Museum. Distributed by Princeton University Press, 2025)."
       }
     ]
   },
   {
-    "location_name": "Row 5",
+    "location_name": "English High School",
     "location_number": 5,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:cf95jm991/full/1200,/0/default.jpg",
+        "title": "English High School: Warren Ave. & Dartmouth St. Built 1877, George A. Clough, arch.",
+        "format": "Photograph",
         "url": "https://ark.digitalcommonwealth.org/ark:/50959/cf95jm98r",
         "caption": "Marr, Thomas E., -1910. \"Boston. Public Latin school. Warren Avenue and Dartmouth Street (now English High School).\" Photograph. [ca. 1905]. Digital Commonwealth."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "From an early age, Allan Rohan Crite (1910-2007) was a frequent patron of the Museum of Fine Arts (MFA). In the 1938 broadside  <i>Why I Illustrate the Spirituals</i>, Crite cited the MFA as having a profound influence on his career.. He recounted visits to the museum with his mother Annamae and the coursework provided through the School of the Museum of Fine Arts, then known as the Museum School.\n Crite graduated from English High School in 1929, then located on Warren Avenue and Dartmouth Street in Boston’s South End. Throughout high school he attended weekend vocational classes at the School of Museum of Fine Arts in composition, charcoal drawing, and textile design. Crite went on to attend and graduate from the Museum School on scholarship where he studied industrial design and a traditional art curriculum, and ultimately merged his Episcopal faith with his artistic practice.[1] He shared, “[...] after seven and one half years of earnest study at the School of the Museum of Fine Arts, I finally felt competent and confident enough that at last it was possible for me to be able to illustrate the Spirituals with a living vigor, which would help preserve them in all their living beauty.\"[2]",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "Oral history interview with Allan Rohan Crite, 1979 January 16-1980 October 22. Archives of American Art, Smithsonian Institution.; Diana Seave Greenwald and Christina Michelon, <i>Allan Rohan Crite: Neighborhood Liturgy</i> (Boston: Boston Athenaeum and Isabella Stewart Gardner Museum. Distributed by Princeton University Press, 2025)."
+      },
+      {
+        "number": 2,
+        "content": "Crite, Allan Rohan. \"Why I Illustrate the Spirituals.\" <i>World Horizons: A Magazine for Young People</i> 1 (1938): 44-55."
       }
     ]
   },
   {
-    "location_name": "Row 6",
+    "location_name": "St. Bartholomew's Church",
     "location_number": 6,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "path": "https://github.com/BostonAthenaeum/AllanRohanCriteBoston/blob/main/images/6_cambridgesunday.jpg?raw=true",
+        "title": "Cambridge, Sunday Morning",
+        "format": "Oil on canvas board",
         "url": "https://bostonathenaeum.org/library-collections/special-collections/paintings-sculpture-online/cambridge-sunday-morning/",
-        "caption": "Crite, Allan Rohan. Cambridge, Sunday Morning. 1939. Oil on board, 57.5 x 67.5 cm. Boston Athenaeum."
+        "caption": "Crite, Allan Rohan. <i>Cambridge, Sunday Morning</i>. 1939. Oil on board, 57.5 x 67.5 cm. Boston Athenaeum."
       },
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
-        "url": "url_placeholder",
-        "caption": "Allan Crite Serving as Lay Reader at St. Bartholomew\u2019s Church. December 1944. Photograph. Courtesy of The Archives of the Episcopal Church."
+        "path": "https://github.com/BostonAthenaeum/AllanRohanCriteBoston/blob/main/images/6_Allan%20Crite_1944.jpg?raw=true",
+        "title": "Allan Crite Serving as Lay Reader at St. Bartholomew's Church",
+        "format": "Photograph",
+        "url": "https://digitalarchives.episcopalarchives.org/cgi-bin/digital_archives/DAsearch.pl",
+        "caption": "<i>Allan Crite Serving as Lay Reader at St. Bartholomew’s Church</i>. December 1944. Photograph. Courtesy of The Archives of the Episcopal Church."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite (1910-2007) grew up attending church services in the historically Black neighborhood known as the Port in Cambridge, Massachusetts. His mother, Annamae, was a devout Episcopalian who joined St. Bartholomew’s upon moving from Plainfield, New Jersey to Boston in 1910. St. Bartholomew’s, originally founded with a Black congregation and clergy composed primarily of Caribbean immigrants, established itself as an diocesan mission with the Episcopal Diocese of Massachusetts the same year.[1]\n Crite attended and supported a number of Episcopal churches in the greater Boston area throughout his lifetime, becoming an active member of St. Stephen’s Episcopal Church in the South End later in his adulthood.[2]At St. Bartholomew’s and in the Port neighborhood more broadly, the young Allan Crite was ensconced by a Black spiritual world.[3] His painting <i>Cambridge, Sunday Morning</i> (1939) depicts a connected community of Black churchgoers on Columbia Street just north of Austin Street, or what is now Bishop Allen Drive. The steeple of Union Baptist Church, which maintained a historically Black congregation, can be seen in the distance.[4]\n Crite’s religious works, notably his booklet <i>Is It Nothing to You?</i> (1948) published by the Episcopal Diocese of Massachusetts, features some of the earliest depictions of a Black Jesus in the United States.[5] In a 1978 oral history with the artist, when he was questioned about his motivations for depicting Black liturgical figures, he replied succinctly, “That's the interpretation that I used. St. Bartholomew's Church is a Black church, so I had that.[6] Beyond inspiration, St. Bartholomew’s rector and vestry, along with the South End’s St. Augustine and St. Martin’s Episcopal Church, directly participated in Crite’s art career. They loaned two paintings, <i>The Baptismal Font</i> (1940) and <i>The Rector’s Greeting</i> (1938), to the Museum of African American History’s 1982 show, <i>The Lost and Found Paintings of Allan Rohan Crite</i>.[7] In Cambridge, just as in the South End and Lower Roxbury, Crite observed the community surrounding him with reverence, portraying the divine and ordinary as one.",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "Important Historical Dates”. St. Bartholomew’s Parish Office. 2025."
+      },
+      {
+        "number": 2,
+        "content": "Allan Crite, 1910-2007.” The Church Awakens: African Americans and the Struggle for Justice. <https://episcopalarchives.org/church-awakens/exhibits/show/leadership/lay/crite>."
+      },
+      {
+        "number": 3,
+        "content": "Clark, Edward, Annamae Palmer Crite, and Allan Rohan Crite. “Annamae Palmer Crite and Allan Rohan Crite: Mother and Artist Son: An Interview.” <i>MELUS</i> 6, no. 4 (1979): 67–78. <https://doi.org/10.2307/467058>."
+      },
+      {
+        "number": 4,
+        "content": "Thank you to Charles Sullivan, Executive Director of the Cambridge Historical Commission, for identifying the location shown in <i>Cambridge, Sunday Morning</i> (1939).; Crite, Allan Rohan. <i>Cambridge, Sunday Morning</i>. 1934. Boston Athenaeum. <https://bostonathenaeum.org/library-collections/special-collections/paintings-sculpture-online/cambridge-sunday-morning/>."
+      },
+      {
+        "number": 5,
+        "content": "<i>Is It Nothing to You?</i>. Boston, Mass. : Dept. of Social Service, Episcopal Diocese of Massachusetts, 1948. <https://archive.org/details/isitnothingtoyou00crit/page/n3/mode/2up>."
+      },
+      {
+        "number": 6,
+        "content": "Oral history interview with Allan Rohan Crite, 1979 January 16-1980 October 22. Archives of American Art, Smithsonian Institution."
+      },
+      {
+        "number": 7,
+        "content": "Rushing, Byron. “The Lost and Found Paintings of Allan Rohan Crite: [exhibition catalog with comments by Allan Rohan Crite]” (1982). <i>Clark Collection Publications</i>. 1. <https://dc.suffolk.edu/afam/1>."
       }
     ]
   },
   {
-    "location_name": "Row 7",
+    "location_name": "Museum of Fine Arts Boston",
     "location_number": 7,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/127/full/full/0/default.jpg",
+        "title": "Personal sketchbook of Allan Rohan Crite",
+        "format": "Pencil on paper",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/127/rec/1",
-        "caption": "Crite, Allan Rohan. [Personal sketchbook of Allan Rohan Crite] [graphic]. [ca. 1932]. Ill. (drawings, pen and ink, watercolor), 20 cm. Boston Athenaeum."
+        "caption": "Crite, Allan Rohan. <i>Mary</i> from the personal sketchbook of Allan Rohan Crite, 1932. Pencil on paper, 12.5 x 19.4 cm. Boston Athenaeum."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite was a frequent patron of the Museum of Fine Arts from as early as he could remember. The young painter cited the Boston institution for its profound influence on his career in his 1938 broadside interview, <i>Why I Illustrate the Spirituals</i>. He recounted visits to the museum with his mother Annamae and the coursework provided through the School of the Museum of Fine Arts, then known as the Museum School.\n Crite graduated from English High School in 1929, a boy’s school among the first public schools in the United States, then located on Warren Avenue and Dartmouth Street in Boston’s South End.His childhood home at 2 Dilworth Street sat directly between English High School and the Museum School. Throughout high school he attended weekend vocational classes at the School of Museum of Fine Arts in composition, charcoal drawing, and textile design. Crite went on to attend and graduate from the Museum School on scholarship where he studied industrial design and a traditional art curriculum, and ultimately merged his Episcopal faith with his artistic practice.[1] He shared, “[...] after seven-and-one-half years of earnest study at the School of the Museum of Fine Arts, I finally felt competent and confident enough that at last it was possible for me to be able to illustrate the Spirituals with a living vigor, which would help preserve them in all their living beauty.\"[2]",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "Oral history interview with Allan Rohan Crite, 1979 January 16-1980 October 22. Archives of American Art, Smithsonian Institution.; Diana Seave Greenwald and Christina Michelon, <i>Allan Rohan Crite: Neighborhood Liturgy</i> (Boston: Boston Athenaeum and Isabella Stewart Gardner Museum. Distributed by Princeton University Press, 2025)."
+      },
+      {
+        "number": 2,
+        "content": "Crite, Allan Rohan. \"Why I Illustrate the Spirituals.\" <i>World Horizons: A Magazine for Young People</i> 1 (1938): 44-55."
       }
     ]
   },
   {
-    "location_name": "Row 8",
+    "location_name": "Isabella Stewart Gardner Museum",
     "location_number": 8,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "path": "https://github.com/BostonAthenaeum/AllanRohanCriteBoston/blob/main/images/8_lateafternoon.jpg?raw=true",
+        "title": "Late Afternoon",
+        "format": "Oil on canvas",
         "url": "https://bostonathenaeum.org/library-collections/special-collections/paintings-sculpture-online/late-afternoon/.",
-        "caption": "Crite, Allan Rohan. Late Afternoon. 1934. Oil on canvas, 82 x 61.5 cm. Boston Athenaeum."
+        "caption": "Crite, Allan Rohan. <i>Late Afternoon</i>. 1934. Oil on canvas, 82 x 61.5 cm. Boston Athenaeum."
       },
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "path": "https://github.com/BostonAthenaeum/AllanRohanCriteBoston/blob/main/images/8_streetscene.jpg?raw=true",
+        "title": "Street Scene",
+        "format": "Oil on canvas",
         "url": "https://bostonathenaeum.org/library-collections/special-collections/paintings-sculpture-online/street-scene/.",
-        "caption": "Crite, Allan Rohan. Street Scene. 1934. Oil on canvas, 60.5 x 45.5 cm. Boston Athenaeum."
+        "caption": "Crite, Allan Rohan. <i>Street Scene</i>. 1934. Oil on canvas, 60.5 x 45.5 cm. Boston Athenaeum."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite (1910-2007) visited the Isabella Stewart Gardner Museum, with his mother Annamae through classes at the Children’s Art Centre in the South End. He often cited fond memories of his time exploring “the palace” and its collections as it was a short walk from his home at 2 Dilworth Street.[1]\n In December 1933, the Gardner became the New England headquarters for the Federal Public Works Art Project, where Crite received his stipend as a selected artist beginning in 1934.[2] he program aimed to assist unemployed artists during the Great Depression and ended in June of the same year. The opportunity allowed Crite to produce a number of oil paintings, including <i>Late Afternoon</i> (1934) and <i>Street Scene</i> (1934).[3] He maintained a lifelong relationship to the museum, drawing references from its collections for his paintings and publications.[4]",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "Crite, Allan Rohan. \"Mrs. John Gardners Court from Memory.\" Print. [ca. 1936–2007]. <i>Digital Commonwealth</i>, <https://ark.digitalcommonwealth.org/ark:/50959/c247n700m>.; Oral history interview with Allan Rohan Crite, 1979 January 16-1980 October 22. Archives of American Art, Smithsonian Institution."
+      },
+      {
+        "number": 2,
+        "content": "The Tenth Annual Report: 1934. Isabella Stewart Gardner Museum."
+      },
+      {
+        "number": 3,
+        "content": "Crite, Allan Rohan. <i>Late Afternoon</i>. 1934. Boston Athenaeum. <https://bostonathenaeum.org/library-collections/special-collections/paintings-sculpture-online/late-afternoon/>.; Crite, Allan Rohan. <i>Street Scene</i>. 1934. Boston Athenaeum. <https://bostonathenaeum.org/library-collections/special-collections/paintings-sculpture-online/street-scene/>."
+      },
+      {
+        "number": 4,
+        "content": "Seave Greenwald, Diana. “Allan Rohan Crite and Fenway Court.” Isabella Stewart Gardner Museum. <https://www.gardnermuseum.org/blog/allan-rohan-crite-and-fenway-court>."
       }
     ]
   },
   {
-    "location_name": "Row 9",
+    "location_name": "Columbus Avenue AME Zion Church",
     "location_number": 9,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "path": "https://github.com/BostonAthenaeum/AllanRohanCriteBoston/blob/main/images/8&9_Harriet%20and%20Leon.jpg?raw=true",
+        "title": "Harriet and Leon",
+        "format": "Oil on canvas",
         "url": "https://bostonathenaeum.org/library-collections/special-collections/paintings-sculpture-online/harriet-and-leon/",
-        "caption": "Crite, Allan Rohan. Harriet and Leon. 1941. Oil on canvas, 91.4 x 66 cm. Boston Athenaeum."
+        "caption": "Crite, Allan Rohan. <i>Harriet and Leon</i>. 1941. Oil on canvas, 91.4 x 66 cm. Boston Athenaeum."
       },
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "path": "https://github.com/BostonAthenaeum/AllanRohanCriteBoston/blob/main/images/8&9_thenews.jpg?raw=true",
+        "title": "The News",
+        "format": "Oil on canvas",
         "url": "https://bostonathenaeum.org/library-collections/special-collections/paintings-sculpture-online/the-news/",
-        "caption": "Crite, Allan Rohan. The News. 1945. Oil on canvas, 83 x 72 cm. Boston Athenaeum."
+        "caption": "Crite, Allan Rohan. <i>The News</i>. 1945. Oil on canvas, 83 x 72 cm. Boston Athenaeum."
       },
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
-        "url": "url_placeholder",
-        "caption": "Crite, Allan Rohan. \u201c410 Columbus Avenue\u201d from An Artist\u2019s Sketchbook of the South End: A Walking Tour about Black People. 1977. Offset color lithograph, 21.7 x 27.9 cm. Boston Athenaeum. UT.9 U9 Cri.a. 1977."
+        "path": "https://github.com/BostonAthenaeum/AllanRohanCriteBoston/blob/main/images/9_columbusavenueame.jpg?raw=true",
+        "title": "Columbus Ave African Methodist Episcopal Zion Church",
+        "format": "Offset color lithograph",
+        "url": "https://catalog.bostonathenaeum.org/vwebv/holdingsInfo?searchId=108837&recCount=50&recPointer=3&bibId=381089",
+        "caption": "Crite, Allan Rohan. <i>Columbus Ave African Methodist Episcopal Zion Church</i> from <i>An Artist’s Sketchbook of the South End: A Walking Tour about Black People</i>. 1977. Offset color lithograph, 21.7 x 27.9 cm. Boston Athenaeum. UT.9 U9 Cri.a. 1977."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Crite’s Neighborhood Series is lauded for its depictions of the South End and Lower Roxbury, containing references to the social change experienced in his community throughout his lifetime. The steeple of Peoples Baptist Church and the recreational fields of the Carter Playground are seen in the distance of Crite’s <i>Harriet and Leon</i> (1941). In <i>The News</i> (1945), the artist shows four Black men (three in plain dress and one in military uniform) reading headlines of President Franklin Delano Roosevelt’s passing on the corner of Columbus Avenue and Northampton Street in front of an altered version of the Columbus AME Zion Church.\n While the scenes in <i>Harriet and Leon</i> and <i>The News</i> are relatively quiet, they embody over a century of social change. According to historian Thomas H. O’Connor, the Black population in Boston maintained a largely self-contained community of approximately 1,800 to 2,000 people on the northwestern slope of Beacon Hill until the late 1890’s. The Peoples Baptist Church and Columbus Avenue AME Zion Church represent Black congregations that began in the Beacon Hill neighborhood, but were forced to relocate to Lower Roxbury as they traced the moving and growing Black population southwest. In the 1900’s, migrations from Beacon Hill, the West Indies, and the American South boomed in the South End and Lower Roxbury. The Black population grew to more than 10,000 people and doubled to over 20,000 by the 1930’s.[1] Both the Peoples Baptist Church and Columbus Avenue AME Zion Church owned buildings in the burgeoning neighborhood by the early twentieth century where they witnessed the Boston Redevelopment Authority’s 1962 South End Urban Renewal Project and university expansion disrupt and displace the lives of their community members.[2] The congregations still stand and worship in Lower Roxbury today, a testament to their resilience.",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "O’Connor, Thomas H. <i>Building a New Boston: Politics and Urban Renewal, 1950-1970</i>. Boston: Northeastern University Press, 1995."
+      },
+      {
+        "number": 2,
+        "content": "Columbus Avenue AME Zion Church. <https://columbusavenueamezion.org/Our-History>.; “Peoples Baptist Church of Boston in Boston, MA.” Peoples Baptist Church of Boston in Boston, MA. <https://www.pbcboston.org/about/>.; Cohen, Lizabeth. <i>Saving America’s Cities: Ed Logue and the Struggle to Renew Urban America in the Suburban Age</i>. New York: Picador, 2020."
       }
     ]
   },
   {
-    "location_name": "Row 10",
+    "location_name": "Peoples Baptist Church",
     "location_number": 10,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "path": "https://github.com/BostonAthenaeum/AllanRohanCriteBoston/blob/main/images/8&9_Harriet%20and%20Leon.jpg?raw=true",
+        "title": "Harriet and Leon",
+        "format": "Oil on canvas",
         "url": "https://bostonathenaeum.org/library-collections/special-collections/paintings-sculpture-online/harriet-and-leon/",
-        "caption": "Crite, Allan Rohan. Harriet and Leon. 1941. Oil on canvas, 91.4 x 66 cm. Boston Athenaeum."
+        "caption": "Crite, Allan Rohan. <i>Harriet and Leon</i>. 1941. Oil on canvas, 91.4 x 66 cm. Boston Athenaeum."
       },
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "path": "https://github.com/BostonAthenaeum/AllanRohanCriteBoston/blob/main/images/8&9_thenews.jpg?raw=true",
+        "title": "The News",
+        "format": "Oil on canvas",
         "url": "https://bostonathenaeum.org/library-collections/special-collections/paintings-sculpture-online/the-news/",
-        "caption": "Crite, Allan Rohan. The News. 1945. Oil on canvas, 83 x 72 cm. Boston Athenaeum."
-      },
-      {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
-        "url": "url_placeholder",
-        "caption": "Crite, Allan Rohan. \u201c410 Columbus Avenue\u201d from An Artist\u2019s Sketchbook of the South End: A Walking Tour about Black People. 1977. Offset color lithograph, 21.7 x 27.9 cm. Boston Athenaeum. UT.9 U9 Cri.a. 1977."
+        "caption": "Crite, Allan Rohan. <i>The News</i>. 1945. Oil on canvas, 83 x 72 cm. Boston Athenaeum."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Crite’s Neighborhood Series mostly depicts Boston’s South End and Lower Roxbury neighborhoods. The steeple of Peoples Baptist Church and the recreational fields of the Carter Playground are seen in the distance of Crite’s <i>Harriet and Leon</i> (1941). In <i>The News</i> (1945), the artist shows four Black men (three in plain dress and one in military uniform) reading headlines of President Franklin Delano Roosevelt’s passing on the corner of Columbus Avenue and Northampton Street in front of an altered version of the Columbus AME Zion Church.\n <i>Harriet and Leon</i> and <i>The News</i> depict aspects of social change happening in Crite’s community during his lifetime. The Peoples Baptist Church and Columbus Avenue AME Zion Church represent Black congregations that began in the Beacon Hill neighborhood, where the majority of Black Bostonians lived until the 1890’s. In the early 1900’s, migrations from Beacon Hill, the West Indies, and the American South boomed in the South End and Lower Roxbury. The Black population grew to more than 10,000 people and doubled to over 20,000 by the 1930s.[1] Both the Peoples Baptist Church and Columbus Avenue AME Zion Church owned buildings in the burgeoning neighborhood by the early twentieth century where they witnessed the Boston Redevelopment Authority’s 1962 South End Urban Renewal Project and university expansion disrupt and displace the lives of their community members.[2] The congregations still stand and worship in Lower Roxbury today, a testament to their resilience.",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "Crite, Allan Rohan. <i>Harriet and Leon</i>. 1941. Oil on canvas, 91.4 x 66 cm. Boston Athenaeum. <https://bostonathenaeum.org/library-collections/special-collections/paintings-sculpture-online/harriet-and-leon/>."
+      },
+      {
+        "number": 2,
+        "content": "Crite, Allan Rohan. <i>The News</i>. 1945. Oil on canvas, 83 x 72 cm. Boston Athenaeum. <https://bostonathenaeum.org/library-collections/special-collections/paintings-sculpture-online/the-news/>."
       }
     ]
   },
   {
-    "location_name": "Row 11",
+    "location_name": "Lenox Street",
     "location_number": 11,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/24/full/full/0/default.jpg",
+        "title": "Just Greetings",
+        "format": "Wash and black ink over graphite on paper",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/24/",
-        "caption": "Crite, Allan Rohan. Just Greetings. 1940. Wash and black ink over graphite, 38.2 x 28 cm Boston Athenaeum."
+        "caption": "Crite, Allan Rohan. <i>Just Greetings</i>. 1940. Wash and black ink over graphite, 38.2 x 28 cm Boston Athenaeum."
       },
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
-        "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/26/rec/27",
-        "caption": "Crite, Allan Rohan. The Last of Dillon Street. Watercolor and black ink, 38.2 x 28 cm. Boston Athenaeum."
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/26/full/full/0/default.jpg",
+        "title": "The Last of Dillon Street",
+        "format": "Watercolor and black ink on paper",
+        "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/26/rec/52",
+        "caption": "Crite, Allan Rohan. <i>The Last of Dillon Street</i>. Watercolor and black ink, 38.2 x 28 cm. Boston Athenaeum."
       },
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
-        "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/10/rec/12",
-        "caption": "Crite, Allan Rohan. In the Choir Robing Room. January 1939. Graphite, 42.4 x 30.7 cm. Boston Athenaeum."
-      },
-      {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "path": "https://github.com/BostonAthenaeum/AllanRohanCriteBoston/blob/main/images/11_WinnieLenox.jpg?raw=true",
+        "title": "\"Winnie\" Irish Poses with Russell and Hyacinth in Front of the Lenox Street Projects",
+        "format": "Photograph",
         "url": "http://hdl.handle.net/2047/D20197203",
-        "caption": "Hall, Winifred Irish. \"Winnie\" Irish Poses with Russell and Hyacinth in Front of the Lenox Street Projects. Photography by Winifred Irish Hall, Lower Roxbury Black History Project, Northeastern University Archives and Special Collections."
+        "caption": "Hall, Winifred Irish. \"'Winnie' Irish Poses with Russell and Hyacinth in Front of the Lenox Street Projects.\" Photography by Winifred Irish Hall, Lower Roxbury Black History Project, Northeastern University Archives and Special Collections."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite (1910-2007) depicted Lenox Street and its surroundings in much of his work while living nearby at the now demolished 2 Dilworth Street.\n In his art, Crite blended memory, documentary, and narrative elements, often reworking or reimagining scenes from his everyday encounters. Crite’s watercolor <i>Just Greetings</i> (1940) is one example of a painting that includes his description of the work’s location. On the back of the paper, he wrote, “Camden St. Near Shawmut Ave.”[1] The watercolor shows the block adjacent to the then recently opened Lenox Street Projects, the first public housing project in the city intentionally built for African Americans, and at the future site of the Camden Street Apartments.[2] Crite also created several works depicting construction of the apartment site, including <i>The Last of Dillon Street</i> (1940).[3]\n Photographer Winifred Irish Hall, who also lived and spent time in the South End and Lower Roxbury, took pictures of the Lenox Street Projects surroundings and residents. Her photographs share a remarkable comparison to Crite’s work.[4] The two artists offer a glimpse into a neighborhood that would see accelerated building demolition and displacement of its residents when the Boston Redevelopment Authority (BRA) put forth its South End Urban Renewal Project in 1962.",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "Crite, Allan Rohan. <i>Just Greetings</i>. 1940. Boston Athenaeum. <https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/24/>."
+      },
+      {
+        "number": 2,
+        "content": "Vale, Lawrence J. <i>From the Puritans to the Projects: Public Housing and Public Neighbors</i>. Harvard University Press, 2000.; Vale, Lawrence J. <i>Reclaiming Public Housing: A Half Century of Struggle in Three Public Neighborhoods</i>. Harvard University Press, 2002."
+      },
+      {
+        "number": 3,
+        "content": "Rushing, Byron. \"The Lost and Found Paintings of Allan Rohan Crite: [exhibition catalog with comments by Allan Rohan Crite]\" (1982). <i>Clark Collection Publications</i>. 1. <https://dc.suffolk.edu/afam/1./>; Crite, Allan Rohan. <i>The Last of Dillon Street</i>. Watercolor and black ink, 38.2 x 28 cm. Boston Athenaeum. <https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/26/rec/27>."
+      },
+      {
+        "number": 4,
+        "content": "\"'Winnie'. Irish poses with Russell and Hyacinth in front of the Lenox Street Projects.\" Photograph. (1935-1945). Northeastern University Library. <http://hdl.handle.net/2047/D20197203/>.; We are thankful to Lolita Parker Jr. for furnishing this source and sharing her knowledge on Lower Roxbury. Thank you to the estate of Winifred Irish Hall for permission to use this photograph."
       }
     ]
   },
   {
-    "location_name": "Row 12",
+    "location_name": "Church of St. Augustine and St. Martin",
     "location_number": 12,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/10/full/full/0/default.jpg",
+        "title": "In the Choir Robing Room",
+        "format": "Graphite on paper",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/10/rec/12",
-        "caption": "Crite, Allan Rohan. In the Choir Robing Room. January 1939. Graphite, 42.4 x 30.7 cm. Boston Athenaeum."
+        "caption": "Crite, Allan Rohan. <i>In the Choir Robing Room</i>. January 1939. Graphite, 42.4 x 30.7 cm. Boston Athenaeum."
       },
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/23/full/full/0/default.jpg",
+        "title": "An Incident at Mass",
+        "format": "Watercolor with black ink and white highlights over graphite on paper",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/23/rec/1",
-        "caption": "Crite, Allan Rohan. An Incident at Mass. 1940. Watercolor with black ink and white highlights over graphite, 38.1 x 28 cm. Boston Athenaeum."
+        "caption": "Crite, Allan Rohan. <i>An Incident at Mass</i>. 1940. Watercolor with black ink and white highlights over graphite, 38.1 x 28 cm. Boston Athenaeum."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite (1910-2007) depicted Lenox Street and its surroundings in much of his work while living nearby at the now demolished 2 Dilworth Street.\n In his art, Crite blended memory, documentary, and narrative elements, often reworking or reimagining scenes from his everyday encounters. Crite’s watercolor <i>Just Greetings</i> (1940) is one example of a painting that includes his description of the work’s location. On the back of the paper, he wrote, “Camden St. Near Shawmut Ave.”[1] The watercolor shows the block adjacent to the then recently opened Lenox Street Projects, the first public housing project in the city intentionally built for African Americans, and at the future site of the Camden Street Apartments.[2] Crite also created several works set at the historically Black Episcopal Church of Saint Augustine and Saint Martin nearby at 29-33 Lenox Street, including <i>In the Choir Robing Room</i> (1939) and <i>An Incident at Mass</i> (1940).",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "Crite, Allan Rohan. <i>Just Greetings</i>. 1940. Wash and black ink over graphite, 38.2 x 28 cm Boston Athenaeum. <https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/24/>."
+      },
+      {
+        "number": 2,
+        "content": "Vale, Lawrence J. <i>From the Puritans to the Projects: Public Housing and Public Neighbors</i>. Harvard University Press, 2000.; Vale, Lawrence J. <i>Reclaiming Public Housing: A Half Century of Struggle in Three Public Neighborhoods</i>. Harvard University Press, 2002.; Crite, Allan Rohan. <i>The Last of Dillon Street</i>. Watercolor and black ink, 38.2 x 28 cm. Boston Athenaeum. <https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/26/rec/27>."
+      },
+      {
+        "number": 3,
+        "content": "“Urban Renewal Quick Facts.” Boston Urban Renewal. <https://www.bostonplans.org/getattachment/76875a6c-f63e-4b45-962a-4629b8a92cb0/>.; Cohen, Lizabeth. Saving America’s Cities: Ed Logue and the Struggle to Renew Urban America in the Suburban Age. New York: Picador, 2020."
       }
     ]
   },
   {
-    "location_name": "Row 13",
+    "location_name": "Madison Park",
     "location_number": 13,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/28/full/full/0/default.jpg",
+        "title": "A Maternity Club",
+        "format": "Watercolor with black ink and white highlights over graphite on paper",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/28/rec/13",
-        "caption": "Crite, Allan Rohan. A Maternity Club. July 1940. Watercolor with black ink and white highlights over graphite ; 38 x 28 cm."
+        "caption": "Crite, Allan Rohan. <i>A Maternity Club</i>. July 1940. Watercolor with black ink and white highlights over graphite ; 38 x 28 cm."
       },
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/4/full/full/0/default.jpg",
+        "title": "Madison Park, Roxbury",
+        "format": "Pen, brush and black and brown ink on paper",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/4/rec/7",
-        "caption": "Crite, Allan Rohan. Madison Park, Roxbury. 1938. Pen, brush and black and brown ink, 38.2 x 27.9 cm. Boston Athenaeum."
+        "caption": "Crite, Allan Rohan. <i>Madison Park, Roxbury</i>. 1938. Pen, brush and black and brown ink, 38.2 x 27.9 cm. Boston Athenaeum."
       },
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "path": "https://github.com/BostonAthenaeum/AllanRohanCriteBoston/blob/main/images/13_annieholds.jpg?raw=true",
+        "title": "Annie Holdes Her Baby in Madison Park",
+        "format": "Photograph",
         "url": "http://hdl.handle.net/2047/D20197237",
-        "caption": "Hall, Winifred Irish. Annie Holds her Baby in Madison Park. [1935-1945]. Photography by Winifred Irish Hall, Lower Roxbury Black History Project, Northeastern University Archives and Special Collections."
+        "caption": "Hall, Winifred Irish. <i>Annie Holds her Baby in Madison Park</i>. [1935-1945]. Photography by Winifred Irish Hall, Lower Roxbury Black History Project, Northeastern University Archives and Special Collections."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite frequented Madison Park and its surrounding neighborhood. His works depicting the historical site (e.g., <i>Settling the World’s Problems</i> (1933) and <i>A Course in Music Appreciation</i> (1940)) are filled with Black Bostonians at leisure and provide a visual record of the forgotten meeting point and cultural hub.[1]\n The young neighborhood photographer Winifred “Winnie” Irish Hall also focused her practice on the location and shared Crite’s interest in the park’s communal nature. Crite’s 1940 watercolor, <i>A Maternity Club</i> shows mothers and caregivers in Madison Park surrounding a pram akin to the scene in Hall’s photograph <i>Annie Holds Her Baby in Madison Park</i> [1935-1945].[2] The two artists’ scenes from the urban space blend together as visual memories of the Madison Park neighborhood, creating a repository of Black past and futurity for Boston’s South End and Lower Roxbury in the early to mid twentieth century.\n In 1962, Boston Redevelopment Authority (BRA) Director Ed Logue devised an urban renewal plan and commissioned a tandem Boston Public School redesign that would eradicate the Madison Park neighborhood in favor of a 50-acre, city-wide high school campus.[3] The former residents that inhabited the area, a low-income, African-American community, were not opposed to a new school, but rather the estimated displacement of 385 families living there. A year-long battle from 1966-1967 between the BRA and the community-driven Lower Roxbury Community Corporation (LRCC, or present-day Madison Park Development Corporation) forced a memorandum of understanding to guarantee fifteen acres of land for “no less than four hundred new or rehabilitated housing units.\"[4] Lower Roxbury residents did not see sufficient replacement housing, and demolition for the school project radically reshaped the neighborhood, but the pushback and show of force by community members paved the way for neighborhood-level organizing in the United States.[5]",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "Crite, Allan Rohan. <i>A Course in Music Appreciation</i>. 1940. Boston Athenaeum. <https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/19/>.; Rushing, Byron. “The Lost and Found Paintings of Allan Rohan Crite: [exhibition catalog with comments by Allan Rohan Crite]” (1982). Clark Collection Publications. 1. <https://dc.suffolk.edu/afam/1>."
+      },
+      {
+        "number": 2,
+        "content": "Crite, Allan Rohan. <i>A Maternity Club</i>. 1978. Boston Athenaeum. <https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/28/rec/13>.; Hall, Winifred Irish. Annie holds her baby in Madison Park. [1935-1945]. Photography by Winifred Irish Hall, Lower Roxbury Black History Project, Northeastern University Archives and Special Collections. <http://hdl.handle.net/2047/D20197237/>."
+      },
+      {
+        "number": 3,
+        "content": "Boston Redevelopment Authority. “BRA Annual Report-1966: Campus High School”. Boston Public Library. <https://archive.org/details/braannualreport100bost>."
+      },
+      {
+        "number": 4,
+        "content": "Cohen, Lizabeth. <i>Saving America’s Cities: Ed Logue and the Struggle to Renew Urban America in the Suburban Age</i>. New York: Picador, 2020. 225."
+      },
+      {
+        "number": 5,
+        "content": "Boston Redevelopment Authority. “Campus High School Urban Renewal Area Mass. r-129 : Proposed Land-Use.” Map. April 1972. <i>Norman B. Leventhal Map & Education Center</i>. <https://collections.leventhalmap.org/search/commonwealth:qz20w877m/>.; See also, Crockett, Karilyn. <i>People Before Highways: Boston Activists, Urban Planners, and a New Movement for City Making</i>. Amherst: University of Massachusetts Press, 2018.; “Place Names, Boundaries, and Real-World Impacts: The Story of Upper Roxbury.” Boston University Initiative on Cities. <https://www.bu.edu/ioc/2022/01/31/place-names-boundaries-and-real-world-impacts-the-story-of-upper-roxbury/>."
       }
     ]
   },
   {
-    "location_name": "Row 14",
+    "location_name": "Charlestown Navy Yard",
     "location_number": 14,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/39/full/full/0/default.jpg",
+        "title": "Passing Parade",
+        "format": "Watercolor with black ink and white gouache over graphite on paper",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/39/rec/47.",
-        "caption": "Crite, Allan Rohan. Passing Parade. 1943. Watercolor with black ink and white gouache over graphite, 31.1 x 23.4 cm. Boston Athenaeum."
+        "caption": "Crite, Allan Rohan. <i>Passing Parade</i>. 1943. Watercolor with black ink and white gouache over graphite, 31.1 x 23.4 cm. Boston Athenaeum."
       },
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
-        "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/35/rec/4.",
-        "caption": "Crite, Allan Rohan. Have Your Pass Ready. 1943. Watercolor with black ink and gouache over graphite on paper, 32.2 x 25.8 cm. Boston Athenaeum."
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/35/full/full/0/default.jpg",
+        "title": "Have Your Pass Ready",
+        "format": "Watercolor with black ink and gouache over graphite on paper",
+        "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/35/rec/4",
+        "caption": "Crite, Allan Rohan. <i>Have Your Pass Ready</i>. 1943. Watercolor with black ink and gouache over graphite on paper, 32.2 x 25.8 cm. Boston Athenaeum."
       },
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/40/full/full/0/default.jpg",
+        "title": "7 a.m. car",
+        "format": "Watercolor and black ink over graphite on paper",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/40/rec/41",
-        "caption": "Crite, Allan Rohan. 7 a.m. car. 1943. Watercolor and black ink over graphite, 28.8 x 21.6 cm. Boston Athenaeum."
+        "caption": "Crite, Allan Rohan. <i>7 a.m. car</i>. 1943. Watercolor and black ink over graphite, 28.8 x 21.6 cm. Boston Athenaeum."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite (1910-2007) produced a prolific quantity and range of pieces as a working artist. He worked briefly as a mapmaker for the United States Coast and Geodetic Survey’s Boston office which closed and subsequently transferred Crite to the Charlestown Navy Yard in 1940. The job served as a stable source of income for him and his mother, Annamae, after his father’s untimely death in 1937.[1]\n Crite worked first as a draughtsman and then as an illustrator for the Charlestown Navy Yard’s Design Department from 1941 until the industrial site’s closure in 1974. He received an exemption from the national draft and witnessed the site’s expansion throughout World War II. In oral histories of his tenure at the Navy Yard, Crite attests to being the only illustrator on staff, which he attributed to his ability to create perspective drawings of propulsion and missile systems.\n Despite his long tenure, Crite never received a promotion to a supervisory role.[2] Racism and workplace discrimination were common for Black workers in the Navy Yard, many of whom collectively organized for better opportunities.The Boston National Historical Park estimates 2,000 of the 47,000 total shipyard workers in November 1943 were Black, a figure spurred by the Great Migration and wartime recruitment.[3] Crite avoided explicitly political discussion of the military environment, but his artistic work captures the changing demographics at the shipyard. In 1943, he produced a series of watercolors illustrating scenes from the commute to Charlestown, activity at the facility, and conditions in the draft room.[4] Taken together, Crite’s portfolio as a draftsman and working artist provides a visual record of Boston’s changing labor dynamics and military production.",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "\"Allan Rohan Crite: The Artist in the Shipyard (U.S. National Park Service).\" National Parks Service. <https://www.nps.gov/articles/000/cny-allan-crite.htm#_ftn5>."
+      },
+      {
+        "number": 2,
+        "content": "Allan Rohan Crite, interview by Francy K. Bockoven. April 27, 1984. Interview Transcript and Recording. Boston Naval Shipyard Oral Histories. BOSTS16364. Boston National Historical Park."
+      },
+      {
+        "number": 3,
+        "content": "\"From the Great Migration to Boston’s Charlestown Navy Yard (U.S. National Park Service).\" Boston National Historical Park. National Parks Service. <https://www.nps.gov/articles/great-migration-to-charlestown-navy-yard.htm#_ftn24>."
+      },
+      {
+        "number": 4,
+        "content": "Crite, Allan Rohan. <i>In the Drafting Room</i>. 1943. Boston Athenaeum. <https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/36/rec/37>.; Crite, Allan Rohan. <i>Passing Parade</i>. 1943. Boston Athenaeum. <https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/39/rec/47>.; Crite, Allan Rohan. <i>Consultation in the Drafting Room</i>. 1943. Boston Athenaeum. <https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/34/rec/1>.; Crite, Allan Rohan. <i>Nonchalant</i>. 1943. Boston Athenaeum. <https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/42/rec/43>.; Crite, Allan Rohan. <i>Have your pass ready</i>. 1943. Boston Athenaeum. <https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/35/rec/4>.; Crite, Allan Rohan. <i>7 a.m. Car</i>. 1943. Boston Athenaeum. <https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/40/rec/41>."
       }
     ]
   },
   {
-    "location_name": "Row 15",
+    "location_name": "St. John's Workshop",
     "location_number": 15,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/21/full/full/0/default.jpg",
+        "title": "Feast of the Assumption of the Blessed Virgin Mary",
+        "format": "Watercolor with black ink and white gouache over graphite on paper",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/21/rec/22",
-        "caption": "Crite, Allan Rohan. Feast of the Assumption of the Blessed Virgin Mary. August 15, 1940. Watercolor with black ink and white gouache over graphite, 38.1 x 28.1 cm."
+        "caption": "Crite, Allan Rohan. <i>Feast of the Assumption of the Blessed Virgin Mary</i>. August 15, 1940. Watercolor with black ink and white gouache over graphite, 38.1 x 28.1 cm."
       },
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/30/full/full/0/default.jpg",
+        "title": "St. James Episcopal Church from Washington St.",
+        "format": "Watercolor with black ink and white highlights over graphite on paper",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/30/rec/31",
-        "caption": "Crite, Allan Rohan. St. James Ep[iscopal] Church from Washington St., Roxbury. May 1940. Watercolor with black ink and white highlights over graphite, 38.1 x 28 cm. Boston Athenaeum."
+        "caption": "Crite, Allan Rohan. <i>St. James Ep[iscopal] Church from Washington St., Roxbury</i>. May 1940. Watercolor with black ink and white highlights over graphite, 38.1 x 28 cm. Boston Athenaeum."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite (1910-2007) purchased an offset lithography press in the 1950s which allowed him to create multiples of his work, including prints and church bulletins which he shared with loved ones and the greater Boston community. Crite’s press was originally housed at 1251 Tremont Street, St. John’s Information Center, commonly referred to as St. John’s Workshop.[1] The three-decker building was a community space run by St. John’s Episcopal Church, which still congregates today as St. John St. James Church of Roxbury, Massachusetts, a merger between the St. John’s Episcopal Church and St. James Episcopal Church congregations. Crite’s use of a parish hall as a studio allowed him to be in community as he produced work. He met his lifelong friend Byron Rushing at St. John’s Workshop; Rushing would go on to become a Massachusetts state representative and director of Boston’s Museum of African American History.[2] Crite moved the press into his new home at 410 Columbus Avenue in 1971 after his childhood home at 2 Dilworth Street was torn down. He created church bulletins for St. John’s, St. James, and the Episcopal Diocese of Boston for over 30 years.[3]",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "Boston Redevelopment Authority. Campus High School Project Newsletter. August 1967. Boston Public Library. <https://archive.org/details/campushighschool1967bost>."
+      },
+      {
+        "number": 2,
+        "content": "We are grateful to Byron Rushing for this information."
+      },
+      {
+        "number": 3,
+        "content": "St. John St. James Church, Roxbury, February 16, 2020. <http://stjohnstjamesroxbury.randombasket.com/article2020-02-16a.asp/>."
       }
     ]
   },
   {
-    "location_name": "Row 16",
+    "location_name": "Harvard University",
     "location_number": 16,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/0/full/full/0/default.jpg",
+        "title": "Our Lady of Harvard Square",
+        "format": "Pen, brush and ink over graphite on paper",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/0/rec/3",
-        "caption": "Crite, Allan Rohan. Our Lady of Harvard Square. [between 1935 and 1955]. Pen, brush and ink over graphite, 28 x 21.6 cm. Boston Athenaeum."
+        "caption": "Crite, Allan Rohan. <i>Our Lady of Harvard Square</i>. [between 1935 and 1955]. Pen, brush and ink over graphite, 28 x 21.6 cm. Boston Athenaeum."
       },
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/32/full/full/0/default.jpg",
+        "title": "Weld Boat Club on the Charles River",
+        "format": "Watercolor with black ink and white gouache over graphite on paper",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/32/rec/55",
-        "caption": "Crite, Allan Rohan. Weld Boat Club on the Charles River. August 1940. Watercolor with black ink and white gouache over graphite, 28.1 x 38.1."
+        "caption": "Crite, Allan Rohan. <i>Weld Boat Club on the Charles River</i>. August 1940. Watercolor with black ink and white gouache over graphite, 28.1 x 38.1."
+      },
+      {
+        "path": "https://github.com/BostonAthenaeum/AllanRohanCriteBoston/blob/main/images/16_HarvardRegistration_small.jpg?raw=true",
+        "title": "Harvard Registration",
+        "format": "Offset black and white lithograph",
+        "url": "https://catalog.bostonathenaeum.org/vwebv/holdingsInfo?bibId=381364",
+        "caption": "Crite, Allan Rohan. \"Harvard Registration\" from <i>Neighborhood Scenes</i>. 1978. Offset lithograph, b&w and color, 21.7 x 35.6cm. or 35.6 x 21.7 cm."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite (1910-2007) was a lifelong student. He graduated from Harvard’s Extension School in 1968 while working full-time as a technical illustrator and draughtsman at the Charlestown Navy Yard and maintaining his art practice in between shifts and coursework. He inherited a love for Harvard from his mother, Annamae, who also took classes at the Extension School from 1910 through the 1950s. During the same period, Harvard University Press published Crite’s preeminent liturgical works <i>Were You There When They Crucified My Lord</i> (1944) and <i>Three Spirituals from Earth to Heaven</i> (1948). In 1968, the Harvard Extension School established the Annamae and Allan R. Crite Prize as a testament to the mother and son’s dedication to learning and passion for the university. When the Navy Yard closed in 1974, Crite returned to Harvard as a part-time librarian for the Extension School’s Grossman Library. He held the position until 1989 and also accepted an artist-in-residence opportunity at Harvard’s Semitic Museum, now the Museum of the Ancient Near East.[1]",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "Diana Seave Greenwald and Christina Michelon, <i>Allan Rohan Crite: Neighborhood Liturgy</i> (Boston: Boston Athenaeum and Isabella Stewart Gardner Museum. Distributed by Princeton University Press, 2025)."
       }
     ]
   },
   {
-    "location_name": "Row 17",
+    "location_name": "St. Stephen's Episcopal Church",
     "location_number": 17,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
-        "url": "url_placeholder",
-        "caption": "Crite, Allan Rohan. \u201c410 Columbus Avenue\u201d from An Artist\u2019s Sketchbook of the South End: A Walking Tour about Black People. 1977. Offset color lithograph, 21.7 x 27.9 cm. Boston Athenaeum. UT.9 U9 Cri.a. 1977."
+        "path": "https://github.com/BostonAthenaeum/AllanRohanCriteBoston/blob/main/images/17_IBAheadquarters.jpg?raw=true",
+        "title": "Inquilinos Boricuas en Acción Headquarters",
+        "format": "Negative (Photograph)",
+        "url": "https://hdl.handle.net/2047/D20225989",
+        "caption": "Courtesy of Inquilinos Boricuas en Acción, Northeastern University Archives and Special Collections. Inquilinos Boricuas en Acción. <i>Inquilinos Boricuas en Acción headquarters</i>. [ca. 1970-1975]. A014014. Photograph. Inquilinos Boricuas en Acción records (M111). Northeastern University Archives and Special Collections."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite (1910-2007) began attending services at St. Stephen’s Episcopal Church later in his adult life. His mother, Annamae Crite, was a devout Episcopalian whom young Allan followed to St. Bartholomew’s Episcopal Church of Cambridge, MA in his teen years.[1] St. Stephen’s, located at 419 Shawmut Avenue, served as a multicultural hub for faith and connection within the South End. The church opened its doors to movement-based organizations such as Inquilinos Boricuas en Acción, a South End Puerto Rican activist group that resisted the Boston Redevelopment Authority’s displacement of community members in their neighborhood, and hosted community events for residents.[2] In a 1997 interview with the South End’s <i>Glue</i> magazine, Crite shared that he attended St. Stephen’s because he enjoyed attending services held in English and Spanish. He used his offset lithography press to create weekly church bulletins, sharing the updates and news of the politically-engaged congregation.[3]",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "Oral history interview with Allan Rohan Crite, 1979 January 16-1980 October 22. Archives of American Art, Smithsonian Institution."
+      },
+      {
+        "number": 2,
+        "content": " Inquilinos Boricuas en Acción. IBA Boston. <https://ibaboston.org/about/who-we-are>.; “The History of IBA's Villa Victoria.” Posted January 31, 2012. IBA - Inquilinos Boricuas en Acción. <https://www.youtube.com/@IBAboston>. <https://www.youtube.com/watch?v=YVZmwHHY9ko>."
+      },
+      {
+        "number": 3,
+        "content": "Walshin, Lydia. “Walking Tour.” <i>Glue</i> magazine, September 1997, 17-20."
       }
     ]
   },
   {
-    "location_name": "Row 18",
+    "location_name": "Crite's Home",
     "location_number": 18,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
-        "url": "url_placeholder",
-        "caption": "Crite, Allan Rohan. \u201c410 Columbus Avenue\u201d from An Artist\u2019s Sketchbook of the South End: A Walking Tour about Black People. 1977. Offset color lithograph, 21.7 x 27.9 cm. Boston Athenaeum. UT.9 U9 Cri.a. 1977."
+        "path": "https://github.com/BostonAthenaeum/AllanRohanCriteBoston/blob/main/images/18&20_410ColumbusAve.jpg?raw=true",
+        "title": "410 Columbus Avenue",
+        "format": "Offset color lithograph",
+        "url": "https://catalog.bostonathenaeum.org/vwebv/holdingsInfo?searchId=108837&recCount=50&recPointer=3&bibId=381089",
+        "caption": "Crite, Allan Rohan. <i>410 Columbus Avenue</i> from <i>An Artist’s Sketchbook of the South End: A Walking Tour about Black People</i>. 1977. Offset color lithograph, 21.7 x 27.9 cm. Boston Athenaeum. UT.9 U9 Cri.a. 1977."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite (1910-2007) and his mother Annamae moved to 410 Columbus Avenue in 1971 after their home at 2 Dilworth Street was marked as blighted and torn down as part of the BRA’s South End Urban Renewal Project. The extra space allowed Crite to move his offset lithography press from St. John’s Workshop, a Parish hall for St. John’s Episcopal Church on 1251 Tremont Street to the brownstone on Columbus.[1] The house at 410 Columbus Avenue became Crite’s studio space, and eventually, a house museum. After the passing of his mother Annamae in 1977, Crite joined the MIT Community Fellows program and announced his intentions for the home to be opened as a cultural space in 1983. The same year, South End organizer Mel King established his political alliance known as the Rainbow Coalition, which met on the first floor of Crite’s home.[2] With the help of his dedicated wife, Jacquelyn Cleveland Cox Crite, the two operated the house museum until increased South End gentrification and rising property values made living and operating out of the bow-fronted house impossible.[3]\n Crite Park opened in 1985 only steps away from Crite’s former home on Columbus Avenue. Friends of Crite Park fundraised for the plaza, which was restored in 2025 and serves as a reflection space dedicated to Allan Rohan Crite and his legacy in the community.",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "St. John St. James Church, Roxbury. St John St James Church Roxbury - Articles, February 16, 2020. <http://stjohnstjamesroxbury.randombasket.com/article2020-02-16a.asp.>"
+      },
+      {
+        "number": 2,
+        "content": "We are grateful to Kathleen Bitetti for this information."
+      },
+      {
+        "number": 3,
+        "content": "Diana Seave Greenwald and Christina Michelon, <i>Allan Rohan Crite: Neighborhood Liturgy</i> (Boston: Boston Athenaeum and Isabella Stewart Gardner Museum. Distributed by Princeton University Press, 2025)."
       }
     ]
   },
   {
-    "location_name": "Row 19",
+    "location_name": "University of Massachusetts Boston",
     "location_number": 19,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "path": "https://github.com/BostonAthenaeum/AllanRohanCriteBoston/blob/main/images/19_combatzone.jpg?raw=true",
+        "title": "Washington Street and Boylston Street",
+        "format": "Offset color lithograph",
         "url": "https://catalog.bostonathenaeum.org/vwebv/holdingsInfo?searchId=479052&recCount=50&recPointer=4&bibId=381211",
-        "caption": "Crite, Allan Rohan. Combat Zone. 1977-1978. Offset lithographs, color and b&w, 21.7 x 28 cm. or 21.7 x 35.6 cm. + 1 booklet. Boston Athenaeum."
+        "caption": "Crite, Allan Rohan. <i>Washington Street and Boylston Street</i> from the <i>Combat Zone</i> portfolio. 1977-1978. Offset lithographs, color and b&w, 21.7 x 28 cm. or 21.7 x 35.6 cm. + 1 booklet. Boston Athenaeum."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite (1910-2007) became explicitly political and outspoken on the democratization of artwork and censorship in the late 1970s through the 1990s, after the death of his mother Annamae and at the height of the culture wars on sexuality, abortion, and HIV/AIDS. His booklet <i>Combat Zone</i> (1977-1978) depicts and describes his attitudes towards the commodification and alienation of intimacy seen in the sex district in downtown Boston after the Boston Redevelopment Authority zoned and contained the area in 1974.[1] In September 1990, he delivered his lecture “Art is Public Business” in University of Massachusetts Boston’s Snowden Hall on the topics of nudity and artistic suppression. He shared, “We do a lot of offensive things in the body, but in a real sense, it is the only thing we have to work with, at least in this phase of life as we know it.” The University’s Harbor Gallery held a concurrent exhibition of Crite’s work, containing a nude triptych titled <i>Fig Leaves</i>, where the Chancellor was scheduled to attend the Convocation Day reception. Reported controversy surrounding the obscenity and morality of the piece led to the forced relocation of the reception.[2]",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "Crite, Allan Rohan. <i>Combat Zone</i> (1977-1978). Boston Athenaeum, Prints and Photographs Department, UT.9 U9 Cri.a. 1978.c (no. 2). <https://catalog.bostonathenaeum.org/vwebv/holdingsInfo?searchId=479052&recCount=50&recPointer=4&bibId=381211>."
+      },
+      {
+        "number": 2,
+        "content": "Sifantus, Jean-Do. “Harbor Gallery Not Immune to National Controversy.” <i>The Mass Media</i>. October 16, 1990.; We are grateful to Kathleen Bitetti for this information."
       }
     ]
   },
   {
-    "location_name": "Row 20",
+    "location_name": "Crite Park",
     "location_number": 20,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
-        "url": "url_placeholder",
-        "caption": "Crite, Allan Rohan. \u201c410 Columbus Avenue\u201d from An Artist\u2019s Sketchbook of the South End: A Walking Tour about Black People. 1977. Offset color lithograph, 21.7 x 27.9 cm. Boston Athenaeum. UT.9 U9 Cri.a. 1977."
+        "path": "https://github.com/BostonAthenaeum/AllanRohanCriteBoston/blob/main/images/18&20_410ColumbusAve.jpg?raw=true",
+        "title": "410 Columbus Avenue",
+        "format": "Offset color lithograph",
+        "url": "https://catalog.bostonathenaeum.org/vwebv/holdingsInfo?searchId=108837&recCount=50&recPointer=3&bibId=381089",
+        "caption": "Crite, Allan Rohan. <i>410 Columbus Avenue</i> from <i>An Artist Sketchbook of the South End: A Walking Tour about Black People</i>. 1977. Offset color lithograph, 21.7 x 27.9 cm. Boston Athenaeum. UT.9 U9 Cri.a. 1977."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite and his mother Annamae moved to 410 Columbus Avenue in 1971 after their home at 2 Dilworth Street was marked as blighted and torn down as part of the South End Urban Renewal Project and related right-of-way expansions.[1] The extra space allowed Crite to move his offset lithography press from St. John’s Workshop, the Parish hall for St. John’s Episcopal Church on 1251 Tremont Street to the brownstone on Columbus.[2] The house at 410 Columbus Avenue became Crite’s studio space, and eventually, a house museum. After the passing of mother Annamae in 1977, Crite joined the MIT Community Fellows program and announced his intentions for the home to be opened as a cultural space in 1983. The same year, South End organizer Mel King established his political alliance known as the Rainbow Coalition, which met on the first floor of Crite’s home.[3] With the help of his dedicated wife, Jacquelyn Cleveland Cox Crite, the two operated the house museum until increased South End gentrification and rising property values made living and operating out of the bow-fronted house impossible.[4]\n Crite Park opened in 1985 only steps away from Crite’s former home on Columbus Avenue. Friends of Crite Park fundraised for the plaza, which was restored in 2025 and serves as a reflection space dedicated to Allan Rohan Crite and his legacy in the community.",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "Boston Redevelopment Authority. “Illustrative Site Plan: South End Urban Renewal Area, Massachusetts R-56.” Map. Circa 1969. <i>Norman B. Leventhal Map & Education Center</i>. <https://collections.leventhalmap.org/search/commonwealth:fn109f178>.; Boston Redevelopment Authority. “South End Urban Renewal Area R-56 : Proposed Rights-of-Way.” Map. May 1965. <i>Norman B. Leventhal Map & Education Center</i>. <https://collections.leventhalmap.org/search/commonwealth:7h14cz12d>."
+      },
+      {
+        "number": 2,
+        "content": "St. John St. James Church, Roxbury. St John St James Church Roxbury - Articles, February 16, 2020. <http://stjohnstjamesroxbury.randombasket.com/article2020-02-16a.asp>."
+      },
+      {
+        "number": 3,
+        "content": "We are grateful to Kathleen Bitetti for this information."
+      },
+      {
+        "number": 4,
+        "content": "Diana Seave Greenwald and Christina Michelon, <i>Allan Rohan Crite: Neighborhood Liturgy</i> (Boston: Boston Athenaeum and Isabella Stewart Gardner Museum. Distributed by Princeton University Press, 2025)."
       }
     ]
   },
   {
-    "location_name": "Row 21",
+    "location_name": "Boston Athenaeum",
     "location_number": 21,
     "images": [
       {
-        "path": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:br86jh699/full/1200,/0/default.jpg",
-        "title": "title_placeholder",
-        "format": "format_placeholder",
+        "path": "https://cdm.bostonathenaeum.org/digital/iiif/p16057coll31/55/full/full/0/default.jpg",
+        "title": "Old South Church from the Old Granary Burial Ground",
+        "format": "Watercolor, gouache, and ink on paper",
         "url": "https://cdm.bostonathenaeum.org/digital/collection/p16057coll31/id/55/rec/2",
-        "caption": "Crite, Allan Rohan. Old South Church [i.e. Park Street Church] from the Old Granary Buryial [sic] Ground. 1941. Watercolor, gouache, ink ; sheet 43 x 36 cm."
+        "caption": "Crite, Allan Rohan. <i>Old South Church [i.e. Park Street Church] from the Old Granary Buryial [sic] Ground</i>. 1941. Watercolor, gouache, ink ; sheet 43 x 36 cm."
       }
     ],
-    "description": "sample description here[1]",
+    "description": "Allan Rohan Crite (1910-2007) maintained a close relationship with the Boston Athenaeum throughout his career. Beginning in 1948, Crite was featured in numerous solo exhibitions at the Athenaeum. He corresponded often with former director Walter Muir Whitehill, who helped publish Crite’s <i>The Cultural Foundations of America</i> (1968) through the Athenaeum. The publication and accompanying exhibition retold a history of the United States that focused on the interconnectedness of colonialism, diasporas, and struggles for liberation. In 1971, Crite gifted sixteen oil paintings, thirty-nine watercolors, and fifteen ink drawings to the Boston Athenaeum ahead of his housing search and move the same month. The South End Urban Renewal Project plan and subsequent transportation redevelopment plans slated Crite’s childhood home at 2 Dilworth Street for destruction, forcing him and his mother to relocate to a brownstone at 410 Columbus Avenue.",
     "footnotes": [
       {
         "number": 1,
-        "content": "footnote content goes here"
+        "content": "Diana Seave Greenwald and Christina Michelon, <i>Allan Rohan Crite: Neighborhood Liturgy</i> (Boston: Boston Athenaeum and Isabella Stewart Gardner Museum. Distributed by Princeton University Press, 2025)."
       }
     ]
   }
 ]
+
+
