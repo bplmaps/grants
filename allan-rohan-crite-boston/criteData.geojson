@@ -9,7 +9,7 @@
 { "type": "Feature", "properties": { "location_name": "Children's Art Centre", "location_number": 4 }, "geometry": { "type": "Point", "coordinates": [ -71.0758, 42.3398 ] } },
 { "type": "Feature", "properties": { "location_name": "English High School", "location_number": 5 }, "geometry": { "type": "Point", "coordinates": [ -71.0743, 42.3443 ] } },
 { "type": "Feature", "properties": { "location_name": "St. Bartholomew's\nEpiscopal Church", "location_number": 6 }, "geometry": { "type": "Point", "coordinates": [ -71.1006, 42.3682 ] } },
-{ "type": "Feature", "properties": { "location_name": "Musem of Fine Arts Boston", "location_number": 7 }, "geometry": { "type": "Point", "coordinates": [ -71.0938, 42.3392 ] } },
+{ "type": "Feature", "properties": { "location_name": "Museum of Fine Arts Boston", "location_number": 7 }, "geometry": { "type": "Point", "coordinates": [ -71.0938, 42.3392 ] } },
 { "type": "Feature", "properties": { "location_name": "Isabella Stewart Gardner Museum", "location_number": 8 }, "geometry": { "type": "Point", "coordinates": [ -71.0989, 42.3386 ] } },
 { "type": "Feature", "properties": { "location_name": "Columbus Avenue Zion\nAME Church", "location_number": 9 }, "geometry": { "type": "Point", "coordinates": [ -71.0821, 42.3399 ] } },
 { "type": "Feature", "properties": { "location_name": "Peoples Baptist Church", "location_number": 10 }, "geometry": { "type": "Point", "coordinates": [ -71.082, 42.3382 ] } },
