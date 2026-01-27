@@ -38,9 +38,9 @@ let townStyle = {
 };
 
 let synagogues =
-  "https://cdn.glitch.global/b5b0ddac-c72a-4b6a-985d-02f11af24299/synagogues_20240701.geojson?v=1719845074442";
+  "synagogues_20240701.geojson";
 let towns =
-  "https://cdn.glitch.global/6176617c-0b0e-49a2-860c-5038007810df/mass-municipalities.geojson?v=1652292559639";
+  "mass-municipalities.geojson";
 
 function highlightPoints(e) {
   let layer = e.target;
@@ -281,6 +281,7 @@ function jump() {
 
 function autocomplete(inp, arr) {
   var currentFocus;
+  console.log(inp)
   inp.addEventListener("input", function (e) {
     var a,
       b,
@@ -713,4 +714,4 @@ let array = [
   "Yarmouth",
 ];
 
-autocomplete(document.getElementById("myInput"), array);
+// autocomplete(document.getElementById("myInput"), array);

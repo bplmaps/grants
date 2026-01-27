@@ -75,31 +75,31 @@ let iconClass = L.Icon.extend({
 
 let chrch = new iconClass({
     iconUrl:
-      "https://cdn.glitch.global/ffcff6bd-e46b-4ac9-8907-75465813c262/church.png?v=1692883968292",
+      "assets/church.png",
   }),
   civ = new iconClass({
     iconUrl:
-      "https://cdn.glitch.global/ffcff6bd-e46b-4ac9-8907-75465813c262/civic.png?v=1692883968292",
+      "assets/civic.png",
   }),
   bus = new iconClass({
     iconUrl:
-      "https://cdn.glitch.global/ffcff6bd-e46b-4ac9-8907-75465813c262/fin.png?v=1692883968292",
+      "assets/store.png",
   }),
   mem = new iconClass({
     iconUrl:
-      "https://cdn.glitch.global/ffcff6bd-e46b-4ac9-8907-75465813c262/memorial.png?v=1692883968292",
+      "assets/memorial.png",
   }),
   pub = new iconClass({
     iconUrl:
-      "https://cdn.glitch.global/ffcff6bd-e46b-4ac9-8907-75465813c262/pub.png?v=1692883968292",
+      "assets/publication.png",
   }),
   home = new iconClass({
     iconUrl:
-      "https://cdn.glitch.global/ffcff6bd-e46b-4ac9-8907-75465813c262/res.png?v=1692883968292",
+      "assets/residence.png",
   }),
   rest = new iconClass({
     iconUrl:
-      "https://cdn.glitch.global/ffcff6bd-e46b-4ac9-8907-75465813c262/restaurant.png?v=1692883968292",
+      "assets/food.png",
   });
 
 let overlayMaps = [], // empty array of maps
