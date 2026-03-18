@@ -1,0 +1,1007 @@
+{
+  "asset": {
+    "type": "application/si-dpo-3d.document+json",
+    "version": "1.0",
+    "generator": "Voyager",
+    "copyright": "Shells courtesy of the New Bedford Whaling Museum. Map courtesy of the David Rumsey Map Collection, David Rumsey Map Center, Stanford Libraries. "
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "units": "mm",
+      "nodes": [0, 1, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16],
+      "meta": 0,
+      "setup": 0
+    }
+  ],
+  "nodes": [
+    {
+      "translation": [14.7680947, -2.3886672, 0.6471651],
+      "rotation": [0.0578058, 0.6892379, -0.0553281, 0.720103],
+      "name": "Camera",
+      "camera": 0
+    },
+    {
+      "rotation": [0, 0.6914551, 0, 0.7224195],
+      "name": "Lights",
+      "children": [2, 3, 4]
+    },
+    {
+      "translation": [-8.8426172, 9.6814498, 16.3054223],
+      "rotation": [0.4829741, -0.1070728, 0.1880998, 0.8484633],
+      "scale": [3.4872352, 3.4872352, 3.4872352],
+      "name": "Shadow Caster #1",
+      "light": 0
+    },
+    {
+      "translation": [15.9339803, 9.420178, 9.754879],
+      "rotation": [0.3546969, 0.163893, -0.3861077, 0.8356136],
+      "scale": [3.4872352, 3.4872352, 3.4872352],
+      "name": "Shadow Caster #2",
+      "light": 1
+    },
+    { "name": "Environment", "light": 2 },
+    { "scale": [2, 2, 2], "name": "Whaling Grounds Map", "model": 0 },
+    {
+      "translation": [1, -1.5, 6.92],
+      "rotation": [-0.1830127, -0.6830127, 0.1830127, 0.6830127],
+      "scale": [1.5, 1.5, 1.5],
+      "name": "Marbled Cone",
+      "model": 1
+    },
+    {
+      "translation": [1, -2, 4.7],
+      "rotation": [0.5794964, 0.7810893, 0.2313089, 0.0240753],
+      "scale": [2, 2, 2],
+      "name": "Crenulated Auger",
+      "model": 2
+    },
+    {
+      "translation": [2, -2.8, 1.5],
+      "rotation": [-0.2667639, 0.3472659, 0.5807719, 0.6862561],
+      "scale": [1.25, 1.25, 1.25],
+      "name": "Chambered Nautilus",
+      "model": 3
+    },
+    {
+      "translation": [1, -0.45, 0.6],
+      "rotation": [0.0007033, 0.0509267, -0.6035045, 0.7957313],
+      "scale": [2, 2, 2],
+      "name": "Perspective Sundial",
+      "model": 4
+    },
+    {
+      "translation": [1, 1.6, 1.85],
+      "rotation": [0.5028267, -0.3300703, -0.6043004, 0.5225323],
+      "scale": [1.5, 1.5, 1.5],
+      "name": "Japanese Wonder Shell",
+      "model": 5
+    },
+    {
+      "translation": [2, 1.8, -2.5],
+      "rotation": [0.0782181, -0.0954397, 0.0952347, 0.9877771],
+      "scale": [0.75, 0.75, 0.75],
+      "name": "Pacific Triton",
+      "model": 6
+    },
+    {
+      "translation": [0.6, 0.5, 1.3],
+      "rotation": [0.1264664, 0.00183, -0.5485273, 0.8265112],
+      "scale": [1.5, 1.5, 1.5],
+      "name": "Dog Conch",
+      "model": 7
+    },
+    {
+      "translation": [0.6, 2.45, 0.95],
+      "rotation": [0.7095081, 0.623641, 0.3155371, -0.0900363],
+      "scale": [1, 1, 1],
+      "name": "Japanese Helmet",
+      "model": 8
+    },
+    {
+      "translation": [1, -3.8, -3.1],
+      "rotation": [0.2391064, 0.8977245, 0.0549533, 0.365922],
+      "scale": [1.75, 1.75, 1.75],
+      "name": "Fluted Clam",
+      "model": 9
+    },
+    {
+      "translation": [0.7, -0.8, -8.7],
+      "rotation": [0.6559752, 0.4459627, 0.5265225, 0.3059215],
+      "scale": [1.75, 1.75, 1.75],
+      "name": "Giant Hairy Triton",
+      "model": 10
+    },
+    {
+      "translation": [0.8, 1, -6.2],
+      "rotation": [-0.0272346, 0.6097522, -0.1094753, 0.7845226],
+      "scale": [2, 2, 2],
+      "name": "Queen Conch section",
+      "model": 11
+    }
+  ],
+  "cameras": [
+    {
+      "type": "perspective",
+      "perspective": { "yfov": 52, "znear": 0.0847826, "zfar": 84.7826015 },
+      "autoNearFar": true
+    }
+  ],
+  "lights": [
+    {
+      "enabled": false,
+      "color": [1, 0.95, 0.9],
+      "intensity": 0.01,
+      "type": "directional",
+      "shadowEnabled": true,
+      "shadowSize": 34.8723523,
+      "shadowIntensity": 50
+    },
+    {
+      "enabled": false,
+      "color": [0.9, 0.95, 1],
+      "intensity": 0.01,
+      "type": "directional",
+      "shadowEnabled": true,
+      "shadowSize": 34.8723523,
+      "shadowIntensity": 60
+    },
+    { "enabled": true, "intensity": 1, "type": "environment" }
+  ],
+  "models": [
+    {
+      "units": "cm",
+      "tags": "Whaling Grounds Map",
+      "boundingBox": { "min": [0, -0.5, -0.707513], "max": [0, 0.5, 0.707513] },
+      "derivatives": [
+        {
+          "usage": "Web3D",
+          "quality": "High",
+          "assets": [
+            {
+              "uri": "glbs/WhalingGroundsLargeMap.glb",
+              "type": "Model",
+              "mimeType": "model/gltf-binary"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "NPMS534DOJtH",
+          "titles": { "EN": "About the Map" },
+          "leads": { "EN": "" },
+          "taglist": { "EN": ["Whaling Grounds Map"] },
+          "articleId": "UdNV5YQct1W2",
+          "viewId": "S0EhDh",
+          "style": "Circle",
+          "position": [0, 0.2327773, 0.1796964],
+          "direction": [0.9999846, -0.0039215, -0.0039215],
+          "scale": 0.0871809
+        }
+      ]
+    },
+    {
+      "units": "cm",
+      "tags": "Marbled Cone",
+      "boundingBox": {
+        "min": [-0.0395266, 0, -0.0228188],
+        "max": [0.0395266, 0.0417655, 0.0228188]
+      },
+      "derivatives": [
+        {
+          "usage": "Web3D",
+          "quality": "High",
+          "assets": [
+            {
+              "uri": "glbs/MarbleCone.glb",
+              "type": "Model",
+              "mimeType": "model/gltf-binary"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "6efathLLtqtt",
+          "titles": { "EN": "Marbled Cone" },
+          "leads": { "EN": "" },
+          "marker": "1",
+          "taglist": { "EN": ["Marbled Cone"] },
+          "articleId": "lmoBbMN3B1rK",
+          "viewId": "LbSvtR",
+          "style": "Circle",
+          "position": [-0.0220844, 0.0400222, -0.0093656],
+          "direction": [-0.0430916, 0.9362619, -0.3486498],
+          "scale": 0.05
+        }
+      ]
+    },
+    {
+      "units": "cm",
+      "tags": "Crenulated Auger",
+      "boundingBox": {
+        "min": [-0.0215031, 0, -0.0460995],
+        "max": [0.0215031, 0.0209617, 0.0460995]
+      },
+      "derivatives": [
+        {
+          "usage": "Web3D",
+          "quality": "High",
+          "assets": [
+            {
+              "uri": "glbs/CrenulatedAuger.glb",
+              "type": "Model",
+              "mimeType": "model/gltf-binary"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "0ElCyzyRtWPx",
+          "titles": { "EN": "Crenulated Auger" },
+          "leads": { "EN": "" },
+          "marker": "2",
+          "taglist": { "EN": ["Crenulated Auger"] },
+          "articleId": "tbfJo7S2LreA",
+          "viewId": "xIeDVl",
+          "style": "Circle",
+          "position": [-0.0172552, 0.0117972, -0.0362665],
+          "direction": [-0.2783244, 0.9604151, 0.0117602],
+          "scale": 0.0871809
+        }
+      ]
+    },
+    {
+      "units": "cm",
+      "tags": "Chambered Nautilus",
+      "boundingBox": {
+        "min": [-0.0731126, 0, -0.0743507],
+        "max": [0.0731126, 0.080429, 0.0743507]
+      },
+      "derivatives": [
+        {
+          "usage": "Web3D",
+          "quality": "High",
+          "assets": [
+            {
+              "uri": "glbs/Nautilus.glb",
+              "type": "Model",
+              "mimeType": "model/gltf-binary"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "54RrIPZsFnCS",
+          "titles": { "EN": "Chambered Nautilus" },
+          "leads": { "EN": "" },
+          "marker": "3",
+          "taglist": { "EN": ["Chambered Nautilus"] },
+          "articleId": "GfEUs94qLxIr",
+          "viewId": "yQ1Ywx",
+          "style": "Circle",
+          "position": [0.0293402, 0.0093143, -0.0419738],
+          "direction": [0.1062145, -0.900856, -0.420924],
+          "scale": 0.0871809
+        }
+      ]
+    },
+    {
+      "units": "cm",
+      "tags": "Perspective Sundial",
+      "boundingBox": {
+        "min": [-0.0237467, 0, -0.0251643],
+        "max": [0.0237467, 0.0270103, 0.0251643]
+      },
+      "derivatives": [
+        {
+          "usage": "Web3D",
+          "quality": "High",
+          "assets": [
+            {
+              "uri": "glbs/PerspectiveSundial.glb",
+              "type": "Model",
+              "mimeType": "model/gltf-binary"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "z4XieKyOvYsf",
+          "titles": { "EN": "Perspective Sundial" },
+          "leads": { "EN": "" },
+          "marker": "4",
+          "taglist": { "EN": ["Perspective Sundial"] },
+          "articleId": "oNaKvNvxAVKi",
+          "viewId": "d9NEvc",
+          "style": "Circle",
+          "position": [-0.0023526, 0.0230292, -0.0063067],
+          "direction": [-0.2230599, 0.7630998, -0.6065665],
+          "scale": 0.0871809
+        }
+      ]
+    },
+    {
+      "units": "cm",
+      "tags": "Japanese Wonder Shell",
+      "boundingBox": {
+        "min": [-0.0431318, 0, -0.0254523],
+        "max": [0.0431318, 0.0412496, 0.0254523]
+      },
+      "derivatives": [
+        {
+          "usage": "Web3D",
+          "quality": "High",
+          "assets": [
+            {
+              "uri": "glbs/JapaneseWonderShell.glb",
+              "type": "Model",
+              "mimeType": "model/gltf-binary"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "FLLnUfE7v4vk",
+          "titles": { "EN": "Japanese Wonder Shell" },
+          "leads": { "EN": "" },
+          "marker": "5",
+          "taglist": { "EN": ["Japanese Wonder Shell"] },
+          "articleId": "AcattzgNE1PQ",
+          "viewId": "2PK1Wi",
+          "style": "Circle",
+          "position": [-0.0317205, 0.0313401, -0.0102313],
+          "direction": [-0.8021349, 0.5830151, -0.1291241],
+          "scale": 0.0871809
+        }
+      ]
+    },
+    {
+      "units": "cm",
+      "tags": "Pacific Triton",
+      "boundingBox": {
+        "min": [-0.1093191, 0, -0.207455],
+        "max": [0.1093191, 0.1482049, 0.207455]
+      },
+      "derivatives": [
+        {
+          "usage": "Web3D",
+          "quality": "High",
+          "assets": [
+            {
+              "uri": "glbs/PacificTriton.glb",
+              "type": "Model",
+              "mimeType": "model/gltf-binary"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "Q1dRaFARcKNk",
+          "titles": { "EN": "Pacific Triton" },
+          "leads": { "EN": "" },
+          "marker": "6",
+          "taglist": { "EN": ["Pacific Triton"] },
+          "articleId": "W667BPazYqoO",
+          "viewId": "h6a5bt",
+          "style": "Circle",
+          "position": [0.0469412, 0.0756594, -0.0742136],
+          "direction": [0.922918, -0.1217466, -0.3652399],
+          "scale": 0.0871809
+        }
+      ]
+    },
+    {
+      "units": "cm",
+      "tags": "Dog Conch",
+      "boundingBox": {
+        "min": [-0.0318974, 0, -0.0234372],
+        "max": [0.0318974, 0.0360783, 0.0234372]
+      },
+      "derivatives": [
+        {
+          "usage": "Web3D",
+          "quality": "High",
+          "assets": [
+            {
+              "uri": "glbs/DogConch.glb",
+              "type": "Model",
+              "mimeType": "model/gltf-binary"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "IeNwfHUxAsC0",
+          "titles": { "EN": "Dog Conch" },
+          "leads": { "EN": "" },
+          "marker": "7",
+          "taglist": { "EN": ["Dog Conch"] },
+          "articleId": "2ozPC9MCtkJs",
+          "viewId": "OqXkz3",
+          "style": "Circle",
+          "position": [-0.005514, 0.0300428, -0.0182697],
+          "direction": [-0.153099, 0.7026852, -0.694834],
+          "scale": 0.0871809
+        }
+      ]
+    },
+    {
+      "units": "cm",
+      "tags": "Japanese Helmet",
+      "boundingBox": {
+        "min": [-0.0340429, 0, -0.0469888],
+        "max": [0.0340429, 0.060976, 0.0469888]
+      },
+      "derivatives": [
+        {
+          "usage": "Web3D",
+          "quality": "High",
+          "assets": [
+            {
+              "uri": "glbs/JapaneseHelmet.glb",
+              "type": "Model",
+              "mimeType": "model/gltf-binary"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "Aii5jWhA2ZRR",
+          "titles": { "EN": "Japanese Helmet" },
+          "leads": { "EN": "" },
+          "marker": "8",
+          "taglist": { "EN": ["Japanese Helmet"] },
+          "articleId": "CbtjJfp0Ncmn",
+          "viewId": "IqbSoO",
+          "style": "Circle",
+          "position": [0.0301113, 0.0428716, 0.0224851],
+          "direction": [0.8596038, 0.3493367, 0.3728875],
+          "scale": 0.0871809
+        }
+      ]
+    },
+    {
+      "units": "cm",
+      "tags": "Fluted Clam",
+      "boundingBox": {
+        "min": [-0.0729171, 0.0796525, -0.057524],
+        "max": [0.078005, 0.1771232, 0.0667313]
+      },
+      "derivatives": [
+        {
+          "usage": "Web3D",
+          "quality": "High",
+          "assets": [
+            {
+              "uri": "glbs/FlutedClam.glb",
+              "type": "Model",
+              "mimeType": "model/gltf-binary"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "xleNGXvkifDe",
+          "titles": { "EN": "Fluted Clam" },
+          "leads": { "EN": "" },
+          "marker": "9",
+          "taglist": { "EN": ["Fluted Clam"] },
+          "articleId": "8tvv49AyMvww",
+          "viewId": "T6b00w",
+          "style": "Circle",
+          "position": [0.0008571, 0.1618367, 0.0360022],
+          "direction": [-0.6656071, 0.6104681, -0.4292969],
+          "scale": 0.0871809
+        }
+      ]
+    },
+    {
+      "units": "cm",
+      "tags": "Giant Hairy Triton",
+      "boundingBox": {
+        "min": [-0.0642709, 0, -0.0341798],
+        "max": [0.0642709, 0.055852, 0.0341798]
+      },
+      "derivatives": [
+        {
+          "usage": "Web3D",
+          "quality": "High",
+          "assets": [
+            {
+              "uri": "glbs/GiantHairyTriton.glb",
+              "type": "Model",
+              "mimeType": "model/gltf-binary"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "ywOgjtWxHCjF",
+          "titles": { "EN": "Giant Hairy Triton" },
+          "leads": { "EN": "" },
+          "marker": "10",
+          "taglist": { "EN": ["Giant Hairy Triton"] },
+          "articleId": "bWuDycaAQRmM",
+          "viewId": "b35HYi",
+          "style": "Circle",
+          "position": [-0.0338723, 0.0376681, 0.0015504],
+          "direction": [0.0509045, -0.0195787, 0.9985116],
+          "scale": 0.0871809
+        }
+      ]
+    },
+    {
+      "units": "cm",
+      "tags": "Queen Conch section",
+      "boundingBox": {
+        "min": [-0.0531198, 0, -0.0339909],
+        "max": [0.0531198, 0.0680648, 0.0339909]
+      },
+      "derivatives": [
+        {
+          "usage": "Web3D",
+          "quality": "High",
+          "assets": [
+            {
+              "uri": "glbs/QueenConchSection.glb",
+              "type": "Model",
+              "mimeType": "model/gltf-binary"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "GMGSDX81I58W",
+          "titles": { "EN": "Queen Conch section" },
+          "leads": { "EN": "" },
+          "marker": "11",
+          "taglist": { "EN": ["Queen Conch section"] },
+          "articleId": "6bnJ3VnIHn2S",
+          "viewId": "snLtm6",
+          "style": "Circle",
+          "position": [-0.0005181, 0.0631735, -0.0018006],
+          "direction": [-0.0902836, 0.4749702, 0.8753583],
+          "scale": 0.0871809
+        }
+      ]
+    }
+  ],
+  "metas": [
+    {
+      "collection": {
+        "titles": { "EN": "Seashells &amp; Whaling Grounds" },
+        "intros": {
+          "EN": "This Scene overlays a map of whaling grounds from the David Rumsey Historic Map Collection with 3D models of seashells from the New Bedford Whaling Museum. The map supports the digital models to show places where these animals may be found around the world.  Charlotte Sherman DeHart's Logbook of the Roman 2nd (ship) of New Bedford supports the illustrative map through the narrative of her voyage aboard the whaling ship during 1857-1861."
+        }
+      },
+      "images": [
+        {
+          "uri": "imgs/scene-image-thumb.jpg",
+          "quality": "Thumb",
+          "byteSize": 13776,
+          "width": 320,
+          "height": 320
+        },
+        {
+          "uri": "imgs/scene-image-low.jpg",
+          "quality": "Low",
+          "byteSize": 54291,
+          "width": 640,
+          "height": 640
+        },
+        {
+          "uri": "imgs/scene-image-medium.jpg",
+          "quality": "Medium",
+          "byteSize": 231615,
+          "width": 1280,
+          "height": 1280
+        },
+        {
+          "uri": "imgs/scene-image-high.jpg",
+          "quality": "High",
+          "byteSize": 819528,
+          "width": 2560,
+          "height": 2560
+        }
+      ],
+      "articles": [
+        {
+          "id": "UdNV5YQct1W2",
+          "uris": { "EN": "articles/WhalingGroundsMapArticle.html" },
+          "titles": { "EN": "Whaling Grounds Map" },
+          "leads": {
+            "EN": "Illustrative of the Currents and Whaling Grounds by the U.S. Ex. Ex.  "
+          },
+          "taglist": { "EN": ["Whaling Grounds Map"] }
+        },
+        {
+          "id": "lmoBbMN3B1rK",
+          "uris": { "EN": "articles/MarbledConeArticle.html" },
+          "titles": { "EN": "Marbled Cone" },
+          "leads": { "EN": "Conus marmoreus" },
+          "taglist": { "EN": ["Marbled Cone"] }
+        },
+        {
+          "id": "tbfJo7S2LreA",
+          "uris": { "EN": "articles/CrenulatedAugerArticle.html" },
+          "titles": { "EN": "Crenulated Auger" },
+          "leads": { "EN": "Terebra crenulata" },
+          "taglist": { "EN": ["Crenulated Auger"] }
+        },
+        {
+          "id": "GfEUs94qLxIr",
+          "uris": { "EN": "articles/ChamberedNautilusArticle.html" },
+          "titles": { "EN": "Chambered Nautilus" },
+          "leads": { "EN": "Nautilus pompilius" },
+          "taglist": { "EN": ["Chambered Nautilus"] }
+        },
+        {
+          "id": "oNaKvNvxAVKi",
+          "uris": { "EN": "articles/PerspectiveSundialArticle.html" },
+          "titles": { "EN": "Perspective Sundial" },
+          "leads": { "EN": "Architectonica perspectiva" },
+          "taglist": { "EN": ["Perspective Sundial"] }
+        },
+        {
+          "id": "AcattzgNE1PQ",
+          "uris": { "EN": "articles/JapaneseWonderShellArticle.html" },
+          "titles": { "EN": "Japanese Wonder Shell" },
+          "leads": { "EN": "Thatcheria mirabilis" },
+          "taglist": { "EN": ["Japanese Wonder Shell"] }
+        },
+        {
+          "id": "W667BPazYqoO",
+          "uris": { "EN": "articles/PacificTritonArticle.html" },
+          "titles": { "EN": "Pacific Triton" },
+          "leads": { "EN": "Charonia triton" },
+          "taglist": { "EN": ["Pacific Triton"] }
+        },
+        {
+          "id": "2ozPC9MCtkJs",
+          "uris": { "EN": "articles/DogConchArticle.html" },
+          "titles": { "EN": "Dog Conch" },
+          "leads": { "EN": "Laevistrombus canarium" },
+          "taglist": { "EN": ["Dog Conch"] }
+        },
+        {
+          "id": "CbtjJfp0Ncmn",
+          "uris": { "EN": "articles/JapaneseHelmetArticle.html" },
+          "titles": { "EN": "Japanese Helmet" },
+          "leads": { "EN": "Phalium bisulcatem" },
+          "taglist": { "EN": ["Japanese Helmet"] }
+        },
+        {
+          "id": "8tvv49AyMvww",
+          "uris": { "EN": "articles/FlutedClamArticle.html" },
+          "titles": { "EN": "Fluted Clam" },
+          "leads": { "EN": "Tridacna squamosa" },
+          "taglist": { "EN": ["Fluted Clam"] }
+        },
+        {
+          "id": "bWuDycaAQRmM",
+          "uris": { "EN": "articles/GiantHairyTritonArticle.html" },
+          "titles": { "EN": "Giant Hairy Triton" },
+          "leads": { "EN": "Monoplex parthenopeus" },
+          "taglist": { "EN": ["Giant Hairy Triton"] }
+        },
+        {
+          "id": "6bnJ3VnIHn2S",
+          "uris": { "EN": "articles/QueenConchsectionArticle.html" },
+          "titles": { "EN": "Queen Conch section" },
+          "leads": { "EN": "Aliger gigas" },
+          "taglist": { "EN": ["Queen Conch section"] }
+        }
+      ]
+    }
+  ],
+  "setups": [
+    {
+      "units": "cm",
+      "interface": {
+        "visible": true,
+        "logo": true,
+        "menu": true,
+        "tools": true
+      },
+      "viewer": {
+        "shader": "Default",
+        "exposure": 1,
+        "toneMapping": false,
+        "gamma": 2,
+        "isWallMountAR": false,
+        "arScale": 1,
+        "activeTags": "Whaling Grounds Map",
+        "sortedTags": "Whaling Grounds Map, "
+      },
+      "reader": { "enabled": false, "position": "Right" },
+      "navigation": {
+        "enabled": true,
+        "autoZoom": true,
+        "autoRotation": false,
+        "lightsFollowCamera": true,
+        "type": "Orbit",
+        "orbit": {
+          "orbit": [3.1814672, 89.0965251, 0],
+          "offset": [0, 0, 13.4872809],
+          "minOrbit": [null, null, null],
+          "maxOrbit": [null, null, null],
+          "minOffset": [null, null, null],
+          "maxOffset": [null, null, 10000]
+        }
+      },
+      "background": {
+        "style": "RadialGradient",
+        "color0": [0.2, 0.25, 0.3],
+        "color1": [0.01, 0.03, 0.05]
+      },
+      "floor": {
+        "visible": false,
+        "position": [0, -10, 0],
+        "size": 28.3005214,
+        "color": [0.6, 0.75, 0.8],
+        "opacity": 0.5,
+        "receiveShadow": false,
+        "autoSize": true
+      },
+      "grid": { "visible": false, "color": [0.5, 0.7, 0.8] },
+      "tape": { "enabled": true },
+      "slicer": {
+        "enabled": false,
+        "axis": "X",
+        "position": 0.5,
+        "inverted": false,
+        "color": [0, 0.61, 0.87]
+      },
+      "derivatives": { "enabled": false },
+      "environment": { "index": 0, "visible": false, "rotation": [0, 0, 0] },
+      "language": { "language": "EN" },
+      "audio": { "narrationId": "" },
+      "snapshots": {
+        "features": ["reader", "viewer", "navigation"],
+        "targets": [
+          "scenes/0/setup/reader/enabled",
+          "scenes/0/setup/reader/position",
+          "scenes/0/setup/reader/articleId",
+          "scenes/0/setup/viewer/annotationsVisible",
+          "scenes/0/setup/viewer/activeAnnotation",
+          "scenes/0/setup/viewer/activeTags",
+          "scenes/0/setup/viewer/shader",
+          "scenes/0/setup/viewer/variant",
+          "scenes/0/setup/viewer/exposure",
+          "scenes/0/setup/navigation/orbit",
+          "scenes/0/setup/navigation/offset"
+        ],
+        "states": [
+          {
+            "id": "xIeDVl",
+            "values": [
+              null,
+              null,
+              null,
+              null,
+              "0ElCyzyRtWPx",
+              null,
+              null,
+              null,
+              null,
+              [3.6790832, 41.2500582, 0],
+              [0, 0, 14.9740167]
+            ],
+            "curve": "EaseOutQuad",
+            "duration": 0.3
+          },
+          {
+            "id": "LbSvtR",
+            "values": [
+              null,
+              null,
+              null,
+              null,
+              "6efathLLtqtt",
+              null,
+              null,
+              null,
+              null,
+              [1.1308206, 36.0806276, 0],
+              [0, 0, 15.7104634]
+            ],
+            "curve": "EaseOutQuad",
+            "duration": 0.4797714
+          },
+          {
+            "id": "yQ1Ywx",
+            "values": [
+              null,
+              null,
+              null,
+              null,
+              "54RrIPZsFnCS",
+              null,
+              null,
+              null,
+              null,
+              [8.3508978, 89.1694306, 0],
+              [0, 0, 11.7522437]
+            ],
+            "curve": "EaseOutQuad",
+            "duration": 0.3
+          },
+          {
+            "id": "d9NEvc",
+            "values": [
+              null,
+              null,
+              null,
+              null,
+              "z4XieKyOvYsf",
+              null,
+              null,
+              null,
+              null,
+              [-6.9386775, 75.5786971, 0],
+              [0, 0, 8.1758993]
+            ],
+            "curve": "EaseOutQuad",
+            "duration": 0.3
+          },
+          {
+            "id": "2PK1Wi",
+            "values": [
+              null,
+              null,
+              null,
+              null,
+              "FLLnUfE7v4vk",
+              null,
+              null,
+              null,
+              null,
+              [-13.9853582, 39.226997, 0],
+              [0, 0, 7.0713353]
+            ],
+            "curve": "EaseOutQuad",
+            "duration": 0.3
+          },
+          {
+            "id": "h6a5bt",
+            "values": [
+              null,
+              null,
+              null,
+              null,
+              "Q1dRaFARcKNk",
+              null,
+              null,
+              null,
+              null,
+              [-21.2054355, 111.4277692, 0],
+              [0, 0, 8.9119009]
+            ],
+            "curve": "EaseOutQuad",
+            "duration": 0.4412269
+          },
+          {
+            "id": "OqXkz3",
+            "values": [
+              null,
+              null,
+              null,
+              null,
+              "IeNwfHUxAsC0",
+              null,
+              null,
+              null,
+              null,
+              [-14.4100687, 56.6401244, 0],
+              [0, 0, 5.7659124]
+            ],
+            "curve": "EaseOutQuad",
+            "duration": 0.3421278
+          },
+          {
+            "id": "IqbSoO",
+            "values": [
+              null,
+              null,
+              null,
+              null,
+              "Aii5jWhA2ZRR",
+              null,
+              null,
+              null,
+              null,
+              [-35.9214018, 58.8342074, 0],
+              [0, 0, 7.6993523]
+            ],
+            "curve": "EaseOutQuad",
+            "duration": 0.3
+          },
+          {
+            "id": "T6b00w",
+            "values": [
+              null,
+              null,
+              null,
+              null,
+              "xleNGXvkifDe",
+              null,
+              null,
+              null,
+              null,
+              [15.4685596, 99.1816977, 0],
+              [0, 0, 10.3317435]
+            ],
+            "curve": "EaseOutQuad",
+            "duration": 0.3
+          },
+          {
+            "id": "b35HYi",
+            "values": [
+              null,
+              null,
+              null,
+              null,
+              "ywOgjtWxHCjF",
+              null,
+              null,
+              null,
+              null,
+              [8.6731928, 100.0311186, 0],
+              [0, 0, 15.3365502]
+            ],
+            "curve": "EaseOutQuad",
+            "duration": 0.3
+          },
+          {
+            "id": "snLtm6",
+            "values": [
+              null,
+              null,
+              null,
+              null,
+              "GMGSDX81I58W",
+              null,
+              null,
+              null,
+              null,
+              [-10.0140659, 111.4983, 0],
+              [0, 0, 15.1122058]
+            ],
+            "curve": "EaseOutQuad",
+            "duration": 0.3
+          },
+          {
+            "id": "S0EhDh",
+            "values": [
+              null,
+              null,
+              null,
+              null,
+              "NPMS534DOJtH",
+              null,
+              null,
+              null,
+              null,
+              [1.4531155, 90.2627788, 0],
+              [0, 0, 21.1956504]
+            ],
+            "curve": "EaseOutQuad",
+            "duration": 0.3
+          }
+        ]
+      }
+    }
+  ]
+}
