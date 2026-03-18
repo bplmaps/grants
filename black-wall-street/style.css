@@ -1,0 +1,341 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  background: #0b0b0b;
+  font-family: "Segoe UI", system-ui, -apple-system, Arial, sans-serif;
+  overflow: hidden;
+}
+
+#app {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+#story {
+  width: 38%;
+  min-width: 340px;
+  max-width: 600px;
+  height: 100%;
+  overflow-y: auto;
+  padding: 18px 18px 140px;
+  background: #101010;
+  color: #f5f0e6;
+  border-right: 1px solid rgba(201, 163, 90, 0.28);
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+#viewDiv {
+  width: 62%;
+  height: 100%;
+}
+
+#downloadBtn {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  z-index: 99;
+  padding: 8px 14px;
+  background: #3a7ca5;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.45);
+}
+
+.project-title {
+  font-family: EB Garamond, "Times New Roman", serif;
+  color: #f6e7c9;
+  letter-spacing: 0.02em;
+  font-size: 1em;
+  font-weight: 900;
+  margin: 4px 0 6px;
+  line-height: 1.15;
+}
+
+.project-subtitle {
+  margin: 0 0 10px;
+  color: rgba(227, 215, 197, 0.92);
+  font-size: 0.5em;
+  line-height: 1.45;
+}
+
+.credits {
+  margin: 2.5em 0 5em 0;
+  font-size: 12px;
+  color: rgba(227, 215, 197, 0.85);
+  line-height: 1.55;
+}
+
+.credits strong {
+  color: rgba(243, 210, 138, 0.95);
+  font-weight: 700;
+}
+
+.panel.active {
+  padding: 14px 14px 18px;
+  margin: 0 0 18px;
+  border: 1px solid rgba(201, 163, 90, 0.22);
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.03);
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.20);
+  opacity: 1;
+  border-left: 3px solid #c8a96e; /* or whatever accent color fits your map */
+}
+
+
+.panel {
+  margin: 2em 0em 2em 0em;
+  opacity: 0.45;
+  transition: opacity 0.4s ease, border-left-color 0.4s ease;
+  border-left: 3px solid transparent;
+}
+
+/* .panel.active {
+
+} */
+
+.panel h2 {
+  font-family: EB Garamond, "Times New Roman", serif;
+  color: #f6e7c9;
+  font-size: 1.4rem;
+  margin: 0 0 10px;
+  letter-spacing: 0.01em;
+}
+
+.panel p {
+  margin: 0 0 10px;
+  line-height: 1.58;
+  color: rgba(227, 215, 197, 0.95);
+  font-size: 1rem;
+  white-space: pre-wrap;
+}
+
+.label {
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: rgba(243, 210, 138, 0.95);
+  margin: 0 0 10px;
+}
+
+.mini-note {
+  margin-top: 8px;
+  font-size: 12px;
+  font-style: oblique;
+  color: #dccdb4e0;
+  border-left: 6px solid #23324b;
+  background: rgb(0, 0, 0);
+  padding: 8px 10px;
+  border-radius: 6px;
+  line-height: 1.45;
+}
+
+.source-list {
+  margin: 10px 0 0;
+  padding-left: 16px;
+  color: rgba(227, 215, 197, 0.92);
+  font-size: 12.5px;
+  line-height: 1.45;
+}
+
+.source-list li {
+  margin: 6px 0;
+}
+
+.source-list a {
+  color: rgba(180, 220, 255, 0.95);
+  text-decoration: none;
+}
+
+.source-list a:hover {
+  text-decoration: underline;
+}
+
+/* Popup museum styling */
+.museum-popup {
+  color: #f5f0e6;
+  font-family: EB Garamond, "Times New Roman", serif;
+  line-height: 1.35;
+  padding: 2px 0;
+}
+
+.museum-title {
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  margin: 0 0 6px 0;
+  color: #f6e7c9;
+}
+
+.museum-subtitle {
+  font-size: 12.5px;
+  margin: 0 0 10px 0;
+  color: #e3d7c5;
+}
+
+.museum-grid {
+  display: grid;
+  grid-template-columns: 130px minmax(0, 1fr);
+  gap: 8px 12px;
+  margin: 10px 0;
+  padding: 10px 12px;
+  border: 1px solid rgba(201, 163, 90, 0.35);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.museum-k {
+  font-size: 11.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: rgba(243, 210, 138, 0.95);
+  line-height: 1.25;
+  align-self: start;
+}
+
+.museum-v {
+  font-size: 13px;
+  color: #f5f0e6;
+  line-height: 1.35;
+  min-width: 0;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  white-space: normal;
+}
+
+.museum-source {
+  margin-top: 10px;
+  font-size: 12px;
+  color: rgba(220, 205, 180, 0.9);
+  border-top: 1px solid rgba(201, 163, 90, 0.25);
+  padding-top: 8px;
+}
+
+.museum-source strong {
+  color: rgba(243, 210, 138, 0.95);
+  font-weight: 700;
+}
+
+.museum-note {
+  margin-top: 8px;
+  padding: 8px 10px;
+  border-left: 3px solid rgba(243, 210, 138, 0.95);
+  background: rgba(255, 255, 255, 0.03);
+  border-radius: 6px;
+  overflow-wrap: anywhere;
+  font-size: 11.5px;
+  color: rgba(220, 205, 180, 0.88);
+  font-style: italic;
+}
+
+@media (max-width: 820px) {
+  #app {
+    flex-direction: column;
+  }
+
+  #story {
+    width: 100%;
+    height: 48%;
+    max-width: none;
+    border-right: none;
+    border-bottom: 1px solid rgba(201, 163, 90, 0.28);
+  }
+
+  #viewDiv {
+    width: 100%;
+    height: 52%;
+  }
+}
+
+header {
+  font-size: 2em !important;
+}
+
+
+#hero {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2.5rem;
+  background: 
+    linear-gradient(to bottom, 
+      rgba(0,0,0,0.45) 20%, 
+      rgba(0,0,0,0.9) 60%, 
+      rgba(15,15,15,1) 100%
+    ),
+    url('rox.webp') center/cover no-repeat;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+  position: relative;
+}
+
+.hero-inner {
+  max-width: 520px;
+}
+
+.hero-eyebrow {
+  font-size: 0.7rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #c8a96e;
+  margin-bottom: 1.2rem;
+}
+
+.hero-title {
+  font-size: 3.5rem;
+  font-family: 'EB Garamond';
+  font-weight: 700;
+  line-height: 1.1;
+  color: #f5f0e6;
+  margin: 0 0 1.2rem 0;
+}
+
+.hero-subtitle {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: rgba(245, 240, 230, 0.8);
+  margin-bottom: 3rem;
+}
+
+.hero-scroll-hint {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.4rem;
+  font-size: 0.85rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.5);
+  margin-bottom: 3rem;
+}
+
+.hero-arrow {
+  animation: bounce 1.8s infinite;
+}
+
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50%       { transform: translateY(6px); }
+}
+
+.hero-credits {
+  font-size: 0.7rem;
+  color: rgba(255, 255, 255, 0.5);
+  line-height: 1.6;
+  border-top: 1px solid rgba(255,255,255,0.08);
+  padding-top: 1rem;
+}
+
+a {
+ color: rgb(255, 202, 95); 
+}
+
+.museum-grid:empty {
+  display: none;
+}
