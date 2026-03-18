@@ -1,3 +1,9 @@
+/**
+ * app.js  –  Black Wall Street of Roxbury
+ *
+ * Waits for the "contentReady" CustomEvent fired by md-parser.js before
+ * initialising the ArcGIS map and scroll driver.  All map logic is unchanged.
+ */
 
 require([
   "esri/Map",
@@ -33,7 +39,6 @@ require([
     `;
   }
 
-  // Build once per layer, not repeatedly
   function buildFieldIndexFromFields(fields) {
     const map = {};
     (fields || []).forEach(f => {
@@ -55,14 +60,12 @@ require([
   function getVal(attrs, fieldIndex, candidates) {
     if (!attrs) return "";
 
-    // 1) exact match
     for (const c of (candidates || [])) {
       const k = String(c);
       const v = attrs[k];
       if (v !== undefined && v !== null && String(v).trim() !== "") return String(v).trim();
     }
 
-    // 2) alias/name (case-insensitive)
     for (const c of (candidates || [])) {
       const resolved = fieldIndex[String(c).toLowerCase()];
       if (!resolved) continue;
@@ -79,14 +82,14 @@ require([
   }
 
   // ---------------------------------------------------------
-  // Museum popup factory (per layer schema)
+  // Museum popup factory
   // ---------------------------------------------------------
   function makeMuseumPopupTemplate(getFieldIndex, cfg) {
     const {
       sourceText = "",
       subtitleText = "",
       titleCandidates = [],
-      rowsSpec = [],            // [{ label, candidates }]
+      rowsSpec = [],
       pictureCandidates = []
     } = cfg || {};
 
@@ -159,7 +162,7 @@ require([
   });
 
   // ---------------------------------------------------------
-  // Context layers with museum popup
+  // Context layers
   // ---------------------------------------------------------
   const redliningLayer = new FeatureLayer({
     url: "https://services1.arcgis.com/KUeKSLlMUcWvuPRM/arcgis/rest/services/Boston_redlining/FeatureServer/0",
@@ -185,7 +188,7 @@ require([
         return `
           <div class="museum-popup">
             <div class="museum-title">HOLC Redlining Area</div>
-            <div class="museum-subtitle">Home Owners’ Loan Corporation • 1930s</div>
+            <div class="museum-subtitle">Home Owners' Loan Corporation • 1930s</div>
 
             <div class="museum-grid">
               ${row("GRADE", gradeLabel)}
@@ -194,7 +197,7 @@ require([
             </div>
 
             <div class="museum-source">
-              <strong>Source:</strong> HOLC “Mapping Inequality” (Boston)
+              <strong>Source:</strong> HOLC "Mapping Inequality" (Boston)
             </div>
           </div>
         `;
@@ -252,7 +255,7 @@ require([
   });
 
   // ---------------------------------------------------------
-  // Point layer factory (museum popup + alias support)
+  // Point layer factory
   // ---------------------------------------------------------
   function makePointLayer(opts) {
     const layer = new FeatureLayer({
@@ -283,7 +286,7 @@ require([
   }
 
   // ---------------------------------------------------------
-  // Point layers (schemas match your tables)
+  // Point layers
   // ---------------------------------------------------------
   const directoryLayer = makePointLayer({
     url: "https://services1.arcgis.com/KUeKSLlMUcWvuPRM/arcgis/rest/services/Directory_location_points/FeatureServer/0",
@@ -462,7 +465,7 @@ require([
   }
 
   // ---------------------------------------------------------
-  // Deep zoom POIs (NO objectid)
+  // Deep zoom POIs
   // ---------------------------------------------------------
   const POIS = {
     "poi-1914-johns": {
@@ -577,13 +580,9 @@ require([
 
   // ---------------------------------------------------------
   // Scroll chapters (01–11)
-  // IMPORTANT: NO auto-zoom here. Scroll only changes layers/extent.
-  // ✅ FIXED: Chapter 02 shows ALL ARCHIVAL POINT LAYERS (NOT boundary)
   // ---------------------------------------------------------
   const chapterStates = {
     "01": { center: [-71.083, 42.325], zoom: 12, layers: {} },
-
-    // ✅ CHAPTER 02 FIX (archival layers only)
     "02": {
       center: [-71.083, 42.323],
       zoom: 12,
@@ -595,7 +594,6 @@ require([
         hotels1940: true
       }
     },
-
     "03": { center: [-71.080, 42.350], zoom: 13, layers: { historic: true }, historicOpacity: 0.55 },
     "04": { center: [-71.090, 42.320], zoom: 13, layers: { historic: true, boundary: true }, historicOpacity: 0.55 },
     "05": { center: [-71.086, 42.330], zoom: 13, layers: { historic1915: true, boundary: true, dir1914: true }, historicOpacity: 0.55 },
@@ -609,6 +607,7 @@ require([
 
   function setupScrollDriver() {
     const storyEl = document.getElementById("story");
+    // ── Panels are queried here, AFTER md-parser has injected them ──
     const panels = Array.from(document.querySelectorAll(".panel"));
     let activeIndex = -1;
 
@@ -623,7 +622,6 @@ require([
         if (center >= topThreshold && center <= bottomThreshold) return i;
       }
 
-      // fallback: closest to midpoint
       let closest = 0;
       let closestDist = Infinity;
       const midpoint = containerRect.top + containerRect.height / 2;
@@ -663,7 +661,7 @@ require([
   }
 
   // ---------------------------------------------------------
-  // Click-to-open popup behavior (map click)
+  // Click-to-open popup behavior
   // ---------------------------------------------------------
   view.popupEnabled = true;
   view.popup.autoOpenEnabled = false;
@@ -677,9 +675,16 @@ require([
   });
 
   // ---------------------------------------------------------
-  // Init
+  // Init — gate on BOTH the ArcGIS view AND md-parser being ready
   // ---------------------------------------------------------
-  view.when(() => {
+
+  // Wrap contentReady in a Promise so we can race it alongside view.when()
+  const contentReady = new Promise((resolve) => {
+    document.addEventListener("contentReady", resolve, { once: true });
+  });
+
+  // Wait for both: map view initialised + markdown chapters injected into DOM
+  Promise.all([view.when(), contentReady]).then(() => {
     setVisibility({});
     wireZoomLinks();
     setupScrollDriver();
