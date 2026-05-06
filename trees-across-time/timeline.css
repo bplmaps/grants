@@ -1744,6 +1744,7 @@
   direction: rtl;
   padding-left: 100px;
   padding-right: 100px;
+  padding-top: 1em;
   position: relative;
   max-width: 100%;
   user-select: text;
@@ -2434,6 +2435,7 @@
   line-height: 14px;
   text-rendering: optimizeLegibility;
   word-wrap: break-word;
+  display:none !important;
 }
 /* Full Image Background
 ================================================== */
