@@ -348,7 +348,7 @@
 [class^="tl-icon-"],
 [class*=" tl-icon-"] {
   font-family: 'tl-icons';
-  speak: none;
+  speak-as: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -829,7 +829,7 @@
 .tl-timenav .tl-timenav-line:before,
 .tl-timenav .tl-timenav-line:after {
   font-family: 'tl-icons';
-  speak: none;
+  speak-as: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -1671,8 +1671,11 @@
 ================================================== */
 .tlanimate {
   -webkit-transform: translateZ(0);
+  transform: translateZ(0);
   -webkit-perspective: 1000;
+  perspective: 1000;
   -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
 }
 .tl-animate {
   -webkit-transition: all 1000ms cubic-bezier(0.77, 0, 0.175, 1);
@@ -1966,7 +1969,6 @@
 .tl-skinny .tl-slide .tl-slide-content-container .tl-slide-content .tl-text {
   display: block;
   height: auto;
-  vertical-align: initial;
   position: static;
   width: 100%;
   max-width: 100%;
@@ -2097,7 +2099,7 @@
 .tl-slidenav-next .tl-slidenav-icon,
 .tl-slidenav-previous .tl-slidenav-icon {
   font-family: 'tl-icons';
-  speak: none;
+  speak-as: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -2205,12 +2207,7 @@
   -moz-opacity: 1;
   opacity: 1;
 }
-.tl-layout-landscape.tl-mobile .tl-slidenav-next:hover {
-  /**
-            * On mobile the hover state stays on the button after the click
-            * Show the default margin as before the click
-            */
-}
+
 .tl-layout-landscape.tl-mobile .tl-slidenav-next:hover .tl-slidenav-icon {
   margin-left: 76px;
   filter: alpha(opacity=100);
@@ -2221,12 +2218,7 @@
 .tl-layout-landscape.tl-mobile .tl-slidenav-next:active .tl-slidenav-icon {
   margin-left: 80px;
 }
-.tl-layout-landscape.tl-mobile .tl-slidenav-previous:hover {
-  /**
-            * On mobile the hover state stays on the button after the click
-            * Show the default margin as before the click
-            */
-}
+
 .tl-layout-landscape.tl-mobile .tl-slidenav-previous:hover .tl-slidenav-icon {
   margin-left: 0px;
   filter: alpha(opacity=100);
